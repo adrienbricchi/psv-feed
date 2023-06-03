@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://lepodcastsansvisage.fr/feed.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
+    <title>Le Podcast sans visage</title>
+    <link>https://tinyurl.com/ycs7qqnh</link>
+    <pubDate>Sat, 3 Jun 2023 13:00:00 +0100</pubDate>
+    <lastBuildDate>Sat, 3 Jun 2023 13:00:00 +0200</lastBuildDate>
+    <ttl>60</ttl>
+    <language>fr</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>lepodcastsansvisage@gmail.com (Adrien)</webMaster>
+    <description>Une bande de potes autour d'une table équipée de micros qui discutent cinéma avec un thème particulier (et parfois avec de l'humour).</description>
+    <itunes:subtitle>Un Podcast sur le cinéma de genre, on prend un thème bien précis, on sélectionne des films et on en discute sans prise de tête !</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>DrawerTV</itunes:name>
+      <itunes:email>drawertv@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Le Podcast sans visage</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://lepodcastsansvisage.fr/media/fanart.jpg"/>
+    <image>
+      <url>https://lepodcastsansvisage.fr/media/fanart.jpg</url>
+      <title>Le Podcast sans visage</title>
+      <link>https://tinyurl.com/ycs7qqnh</link>
+    </image>
+    <category>TV &amp; Film</category>
+    <itunes:category text="TV &amp; Film"/>
+
+    <!-- Episodes -->
+
+    <item>
+      <guid isPermaLink="false">1035f219259b48c4ad60bda8d847b291</guid>
+      <title>Bertrand Blier</title>
+      <pubDate>Thu, 1 Jun 2023 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s05e04_-_Blier_v2.mp3" length="123720239"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s05e04_-_Blier_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e04_-_Blier_v2.jpg"/>
+      <itunes:duration>02:05:40</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:summary>Un podcast audio sur le cinéma, cette saison 05 est axée sur les personnalités (réal, acteurs etc...), ce mois ci nous parlons du grand maître de New York et de la mafia, Martin Scorsese
+
+On parle, entre autres, et sans trop spoiler, des films :
+
+- Les Valseuses (1974)
+- Calmos (1976)
+- Buffet froid (1979)
+- Tenue de soirée (1986)
+
+&gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+      </itunes:summary>
+      <description>Un podcast audio sur le cinéma, cette saison 05 est axée sur les personnalités (réal, acteurs etc...), ce mois ci nous parlons du grand maître de New York et de la mafia, Martin Scorsese
+
+On parle, entre autres, et sans trop spoiler, des films :
+
+- Les Valseuses (1974)
+- Calmos (1976)
+- Buffet froid (1979)
+- Tenue de soirée (1986)
+
+&gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1500083578</guid>
+      <title>Martin Scorsese</title>
+      <pubDate>Tue, 25 Apr 2023 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s05e03_-_Scorcese_v1.mp3" length="82641257"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s05e03_-_Scorcese_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e03_-_Scorcese_v1.jpg"/>
+      <itunes:duration>01:48:53</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:summary>Un podcast audio sur le cinéma, cette saison 05 est axée sur les personnalités (réal, acteurs etc...), ce mois ci nous parlons du grand maître de New York et de la mafia, Martin Scorsese
+
+On parle, entre autres, et sans trop spoiler, des films :
+
+- After Hours (1985)
+- Raging Bull (1980)
+- Le loup de wall street (2013)
+
+&gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+      </itunes:summary>
+      <description>Un podcast audio sur le cinéma, cette saison 05 est axée sur les personnalités (réal, acteurs etc...), ce mois ci nous parlons du grand maître de New York et de la mafia, Martin Scorsese
+
+On parle, entre autres, et sans trop spoiler, des films :
+
+- After Hours (1985)
+- Raging Bull (1980)
+- Le loup de wall street (2013)
+
+&gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1476461848</guid>
+      <title>John Carpenter</title>
+      <pubDate>Fri, 24 Mar 2023 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s05e02_-_Carpenter_v1.mp3" length="87087690"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s05e02_-_Carpenter_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e02_-_Carpenter_v1.jpg"/>
+      <itunes:duration>01:54:29</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:summary>Un podcast audio sur le cinéma, cette saison 05 est axée sur les personnalités (réal, acteurs etc...), ce mois ci nous parlons d'un des grands maîtres de l'horreur, j'ai nommé John Carpenter.
+
+On parle, entre autres, et sans trop spoiler, des films :
+
+- Assault
+- Invasion Los Angeles
+- The thing
+- L'antre de la folie
+
+&gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+➜ Autres films évoqués :
+- Christine
+- The Fog
+- Halloween
+- Vampires
+- Hateful eight
+      </itunes:summary>
+      <description>
+On parle, entre autres, et sans trop spoiler, des films :
+
+- Assault
+- Invasion Los Angeles
+- The thing
+- L'antre de la folie
+
+&gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+➜ Autres films évoqués :
+- Christine
+- The Fog
+- Halloween
+- Vampires
+- Hateful eight
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1454780791</guid>
+      <title>Steven Spielberg</title>
+      <pubDate>Fri, 24 Feb 2023 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s05e01_-_Spielberg_v1.mp3" length="107447102"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s05e01_-_Spielberg_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e01_-_Spielberg_v1.jpg"/>
+      <itunes:duration>02:16:22</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:summary>Un podcast audio sur le cinéma, cette saison 05 est axée sur les personnalités (réal, acteurs etc...), ce mois ci pour la sortie de The Fabelmans, nous allons parler de tonton Steven Spielberg.
+
+On parle, entre autres, et sans trop spoiler, des films :
+
+- Rencontres du troisième type
+- Empire du soleil
+- Jurassic Park
+- The Fabelmans
+
+&gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+L'utilisation de très courts extraits du film rentre dans le cadre légal d'une utilisation dite équitable. Ce podcast respecte la règle d'exception de parodie.
+Les extraits n'ont pour but de servir que de base humoristique.
+      </itunes:summary>
+      <description>Un podcast audio sur le cinéma, cette saison 05 est axée sur les personnalités (réal, acteurs etc...), ce mois ci pour la sortie de The Fabelmans, nous allons parler de tonton Steven Spielberg.
+
+On parle, entre autres, et sans trop spoiler, des films :
+
+- Rencontres du troisième type
+- Empire du soleil
+- Jurassic Park
+- The Fabelmans
+
+&gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+L'utilisation de très courts extraits du film rentre dans le cadre légal d'une utilisation dite équitable. Ce podcast respecte la règle d'exception de parodie.
+Les extraits n'ont pour but de servir que de base humoristique.
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+  </channel>
+</rss>
