@@ -340,7 +340,7 @@
       <pubDate>Mon, 20 Jun 2022 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e07_-_Category_III_v1.mp3" length="73742797"/>
       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e07_-_Category_III_v1.mp3</link>
-      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e07_-_Category_III_v1.mp3"/>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e07_-_Category_III_v1.jpg"/>
       <itunes:duration>1:16:42</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>7</itunes:episode>
@@ -376,8 +376,8 @@
       <title>Les Western Spaghetti</title>
       <pubDate>Sat, 21 May 2022 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e06_-_Westerns_v2.mp3" length="111290470"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e06_-_Westerns_v2.jpg</link>
-      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e06_-_Westerns_v2.mp3"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e06_-_Westerns_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e06_-_Westerns_v2.jpg"/>
       <itunes:duration>1:54:04</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>6</itunes:episode>
