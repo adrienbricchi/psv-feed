@@ -37,6 +37,27 @@
 
     <!-- Episodes -->
 
+<!--    <item> -->
+<!--       <guid isPermaLink="false">@@@@@@@@@@</guid> -->
+<!--       <title>@@@@@@@@@@</title> -->
+<!--       <pubDate>@@@@@@@@@@ 12:00:00 +@@@@@@@@@@</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/@@@@@@@@@@" length="@@@@@@@@@@"/> -->
+<!--       <link>https://lepodcastsansvisage.fr/episodes/@@@@@@@@@@</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/@@@@@@@@@@"/> -->
+<!--       <itunes:duration>@@@@@@@@@@</itunes:duration> -->
+<!--       <itunes:season>@@@@@@@@@@</itunes:season> -->
+<!--       <itunes:episode>@@@@@@@@@@</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         @@@@@@@@@@ -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         @@@@@@@@@@ -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
     <!-- Saison 5 -->
 
     <item>
