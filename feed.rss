@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://lepodcastsansvisage.fr/feed.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
+    <title>Le Podcast sans visage</title>
+    <link>https://tinyurl.com/ycs7qqnh</link>
+    <pubDate>Mon, 5 Jun 2023 12:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 5 Jun 2023 12:00:00 +0200</lastBuildDate>
+    <ttl>60</ttl>
+    <language>fr</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>lepodcastsansvisage@gmail.com (Adrien)</webMaster>
+    <description>
+      Une bande de potes autour d'une table équipée de micros qui discutent cinéma avec un thème particulier (et parfois avec de l'humour).
+
+      L'utilisation de très courts extraits du film rentre dans le cadre légal d'une utilisation dite équitable. Ce podcast respecte la règle d'exception de parodie.
+      Les extraits n'ont pour but de servir que de base humoristique.
+    </description>
+    <itunes:subtitle>Un Podcast sur le cinéma de genre, on prend un thème bien précis, on sélectionne des films et on en discute sans prise de tête !</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>DrawerTV</itunes:name>
+      <itunes:email>drawertv@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Le Podcast sans visage</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://lepodcastsansvisage.fr/media/fanart.jpg"/>
+    <image>
+      <url>https://lepodcastsansvisage.fr/media/fanart.jpg</url>
+      <title>Le Podcast sans visage</title>
+      <link>https://tinyurl.com/ycs7qqnh</link>
+    </image>
+    <category>TV &amp; Film</category>
+    <itunes:category text="TV &amp; Film"/>
+
+    <!-- Episodes -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">@@@@@@@@@@</guid> -->
+<!--       <title>@@@@@@@@@@</title> -->
+<!--       <pubDate>@@@@@@@@@@ 12:00:00 +@@@@@@@@@@</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/@@@@@@@@@@" length="@@@@@@@@@@"/> -->
+<!--       <link>https://lepodcastsansvisage.fr/episodes/@@@@@@@@@@</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/@@@@@@@@@@"/> -->
+<!--       <itunes:duration>@@@@@@@@@@</itunes:duration> -->
+<!--       <itunes:season>@@@@@@@@@@</itunes:season> -->
+<!--       <itunes:episode>@@@@@@@@@@</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         @@@@@@@@@@ -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         @@@@@@@@@@ -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+    <!-- Saison 5 -->
+
+    <item>
+      <guid isPermaLink="false">1035f219259b48c4ad60bda8d847b291</guid>
+      <title>Bertrand Blier</title>
+      <pubDate>Thu, 1 Jun 2023 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s05e04_-_Blier_v2.mp3" length="123720239"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s05e04_-_Blier_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e04_-_Blier_v2.jpg"/>
+      <itunes:duration>02:05:40</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:summary>
+        Ce mois ci nous parlons du plus grand punch-liner français, Bertrand Blier.
+
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Les Valseuses (1974)
+        - Calmos (1976)
+        - Buffet froid (1979)
+        - Tenue de soirée (1986)
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+      </itunes:summary>
+      <description>
+        Ce mois ci nous parlons du plus grand punch-liner français, Bertrand Blier.
+
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Les Valseuses (1974)
+        - Calmos (1976)
+        - Buffet froid (1979)
+        - Tenue de soirée (1986)
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1500083578</guid>
+      <title>Martin Scorsese</title>
+      <pubDate>Tue, 25 Apr 2023 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s05e03_-_Scorcese_v1.mp3" length="82641257"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s05e03_-_Scorcese_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e03_-_Scorcese_v1.jpg"/>
+      <itunes:duration>01:48:53</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:summary>
+        Ce mois ci nous parlons du grand maître de New York et de la mafia, Martin Scorsese.
+
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - After Hours (1985)
+        - Raging Bull (1980)
+        - Le loup de wall street (2013)
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+      </itunes:summary>
+      <description>
+        Ce mois ci nous parlons du grand maître de New York et de la mafia, Martin Scorsese.
+
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - After Hours (1985)
+        - Raging Bull (1980)
+        - Le loup de wall street (2013)
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1476461848</guid>
+      <title>John Carpenter</title>
+      <pubDate>Fri, 24 Mar 2023 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s05e02_-_Carpenter_v1.mp3" length="87087690"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s05e02_-_Carpenter_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e02_-_Carpenter_v1.jpg"/>
+      <itunes:duration>01:54:29</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:summary>
+        Ce mois ci nous parlons d'un des grands maîtres de l'horreur, Big John.
+
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Assault
+        - Invasion Los Angeles
+        - The thing
+        - L'antre de la folie
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+        ➜ Autres films évoqués :
+        - Christine
+        - The Fog
+        - Halloween
+        - Vampires
+        - Hateful eight
+      </itunes:summary>
+      <description>
+        Ce mois ci nous parlons d'un des grands maîtres de l'horreur, Big John.
+
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Assault
+        - Invasion Los Angeles
+        - The thing
+        - L'antre de la folie
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+
+        ➜ Autres films évoqués :
+        - Christine
+        - The Fog
+        - Halloween
+        - Vampires
+        - Hateful eight
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1454780791</guid>
+      <title>Steven Spielberg</title>
+      <pubDate>Fri, 24 Feb 2023 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s05e01_-_Spielberg_v1.mp3" length="107447102"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s05e01_-_Spielberg_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e01_-_Spielberg_v1.jpg"/>
+      <itunes:duration>02:16:22</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:summary>
+        Cette saison 05 sera axée sur les réalisateurs.
+        Ce mois ci pour la sortie de The Fabelmans, nous allons parler de tonton Steven.
+
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Rencontres du troisième type
+        - Empire du soleil
+        - Jurassic Park
+        - The Fabelmans
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+      </itunes:summary>
+      <description>
+        Cette saison 05 sera axée sur les réalisateurs.
+        Ce mois ci pour la sortie de The Fabelmans, nous allons parler de tonton Steven.
+
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Rencontres du troisième type
+        - Empire du soleil
+        - Jurassic Park
+        - The Fabelmans
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <!-- Saison 4 -->
+
+   <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1344923017</guid>
+      <title>TOP et FLOP de la rédac (de tous les temps)</title>
+      <pubDate>Fri, 16 Sep 2022 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04eHS_-_Top_de_la_redac_v2.mp3" length="106237553"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04eHS_-_Top_de_la_redac_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04eHS_-_Top_de_la_redac_v2.jpg"/>
+      <itunes:duration>1:49:31</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:summary>
+        Ce mois-ci, on parle de nos plaisirs coupables :
+
+        - Indiana Jones et le Royaume du Crâne de Cristal
+        - People (Jet Set 2)
+        - Mortal Kombat
+        - Banlieue 13
+
+        Des films cultes qu'on n'aime pas beaucoup :
+
+        - La La Land
+        - Blade Runner
+        - Usual Suspects
+        - Les Star Wars
+
+        Et de nos films préférés de tous les temps :
+
+        - Donnie Darko
+        - Shining
+        - Drive
+        - Scott Pilgrim vs the World
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+      </itunes:summary>
+      <description>
+        Ce mois-ci, on parle de nos plaisirs coupables :
+
+        - Indiana Jones et le Royaume du Crâne de Cristal
+        - People (Jet Set 2)
+        - Mortal Kombat
+        - Banlieue 13
+
+        Des films cultes qu'on n'aime pas beaucoup :
+
+        - La La Land
+        - Blade Runner
+        - Usual Suspects
+        - Les Star Wars
+
+        Et de nos films préférés de tous les temps:
+
+        - Donnie Darko
+        - Shining
+        - Drive
+        - Scott Pilgrim vs the World
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1308005743</guid>
+      <title>La Nazisploitation</title>
+      <pubDate>Tue, 19 Jul 2022 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04e08_-_La_Nazisploitation_v2.mp3" length="99728232"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04e08_-_La_Nazisploitation_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e08_-_Nazisploitation.jpg"/>
+      <itunes:duration>1:42:40</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:summary>
+        Ce mois ci c'est les films sur les Nazis. On y verra du sadomasochisme, des nichons et des scalps !
+        On parle, entre autres, et sans trop spoiler, des films :
+        
+        On parle, entre autres, et sans trop spoiler, des films :
+        
+        - Portier de nuit (1974) de Liliana Cavani 
+        - Ilsa, la Louve des SS (1975) de Don Edmonds
+        - Inglourious Basterds (2009) de Quentin Tarantino
+        
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (tinyurl.com/mtx9jxju)
+      </itunes:summary>
+      <description>
+        Ce mois ci c'est les films sur les Nazis. On y verra du sadomasochisme, des nichons et des scalps !
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Portier de nuit (1974) de Liliana Cavani
+        - Ilsa, la Louve des SS (1975) de Don Edmonds
+        - Inglourious Basterds (2009) de Quentin Tarantino
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+   <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1287261460</guid>
+      <title>La Catégorie III</title>
+      <pubDate>Mon, 20 Jun 2022 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04e07_-_Category_III_v1.mp3" length="73742797"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04e07_-_Category_III_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e07_-_Category_III_v1.mp3"/>
+      <itunes:duration>1:16:42</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:summary>
+        Ce mois ci c'est les films de catégorie 3 Hongkongais.
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Crime Story de Kirk Wong et Jackie Chan - 1993
+        - Untold Story de Danny Lee et Herman Yau - 1993
+        - Run and Kill de Billy Tang - 1993
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (tinyurl.com/mtx9jxju)
+      </itunes:summary>
+      <description>
+        Ce mois ci c'est les films de catégorie 3 Hongkongais.
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Crime Story de Kirk Wong et Jackie Chan - 1993
+        - Untold Story de Danny Lee et Herman Yau - 1993
+        - Run and Kill de Billy Tang - 1993
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+   <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1272596968</guid>
+      <title>Les Western Spaghetti</title>
+      <pubDate>Sat, 21 May 2022 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04e06_-_Westerns_v2.mp3" length="111290470"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04e06_-_Westerns_v2.jpg</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e06_-_Westerns_v2.mp3"/>
+      <itunes:duration>1:54:04</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Il était une fois dans l'Ouest (1968) de Sergio Leone
+        - Le Grand Silence (1968) de Sergio Corbucci
+        - Mon nom est Personne (1973)de Tonino Valerii
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique sur Le dernier face à face ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+
+        ➜ Autres films évoqués :
+
+        - Pour quelques dollars de plus
+        - Le Spécialiste (Le western avec Johnny)
+        - Impitoyable
+        - Trinita
+        - Retour vers le futur 3
+        - L'homme des hautes plaines
+        - Lucky Luke
+        - Les 8 salopards
+        - La horde sauvage
+        - Rio Bravo
+        - L'assassinat de Jessie James
+        - Calamity
+        - Tombstone
+        - Le bon la brute et le truand
+        - Inglorious bastards
+        - Django
+        - The revenant
+        - Le train sifflera 3 fois
+        - L'homme de la loi
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Il était une fois dans l'Ouest (1968) de Sergio Leone
+        - Le Grand Silence (1968) de Sergio Corbucci
+        - Mon nom est Personne (1973)de Tonino Valerii
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique sur Le dernier face à face ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+
+        ➜ Autres films évoqués :
+
+        - Pour quelques dollars de plus
+        - Le Spécialiste (Le western avec Johnny)
+        - Impitoyable
+        - Trinita
+        - Retour vers le futur 3
+        - L'homme des hautes plaines
+        - Lucky Luke
+        - Les 8 salopards
+        - La horde sauvage
+        - Rio Bravo
+        - L'assassinat de Jessie James
+        - Calamity
+        - Tombstone
+        - Le bon la brute et le truand
+        - Inglorious bastards
+        - Django
+        - The revenant
+        - Le train sifflera 3 fois
+        - L'homme de la loi
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+   <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1253029732</guid>
+      <title>La Carsploitation</title>
+      <pubDate>Tue, 19 Apr 2022 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04e05_-_Carsploitation_v3.mp3" length="86382888"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04e05_-_Carsploitation_v3.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e05_-_Carsploitation.jpg"/>
+      <itunes:duration>1:30:58</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Faster, Pussycat ! Kill ! Kill ! (1965) Russ Meyer
+          Trois femmes partent en virée dans leurs bolides de course. Varla, experte en arts martiaux et égerie de ce groupe d'amazones, déclenche un véritable carnage pour s'approprier le magot d'un vieillard vicelard.
+        - Point Limite Zero (1971) Richard C. Safarian
+          Kowalski, un ex-flic vétéran du Vietnam, champion de stock-car, parie qu'il ralliera Denver à San Francisco en moins de quinze heures. Les policiers de Californie et du Nevada ne tardent pas à se mettre à sa poursuite…
+        - Enfer Mécanique (1977) Elliot Silverstein
+          Est ce un fantôme, un démon ou le diable lui-même?
+          Le shérif Wade Parent est en mission afin d'arrêter une berline noire monstrueuse qui a commencé à terroriser les habitants d'une petite ville du Nouveau-Mexique.
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Faster, Pussycat ! Kill ! Kill ! (1965) Russ Meyer
+          Trois femmes partent en virée dans leurs bolides de course. Varla, experte en arts martiaux et égerie de ce groupe d'amazones, déclenche un véritable carnage pour s'approprier le magot d'un vieillard vicelard.
+        - Point Limite Zero (1971) Richard C. Safarian
+          Kowalski, un ex-flic vétéran du Vietnam, champion de stock-car, parie qu'il ralliera Denver à San Francisco en moins de quinze heures. Les policiers de Californie et du Nevada ne tardent pas à se mettre à sa poursuite…
+        - Enfer Mécanique (1977) Elliot Silverstein
+          Est ce un fantôme, un démon ou le diable lui-même?
+          Le shérif Wade Parent est en mission afin d'arrêter une berline noire monstrueuse qui a commencé à terroriser les habitants d'une petite ville du Nouveau-Mexique.
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+   <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1232002141</guid>
+      <title>La Rambosploitation</title>
+      <pubDate>Mon, 14 Mar 2022 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04e04_-_Rambosploitation_v1.mp3" length="79890680"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04e04_-_Rambosploitation_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e04_-_Rambosploitation.jpg"/>
+      <itunes:duration>1:22:01</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Turkish Rambo (1983) appelé aussi Korkusuz / Rampage
+        - Ultime combat (1988) David A. Prior
+        - Invasion U.S.A. (1985) Joseph Zito
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Turkish Rambo (1983) aussi appelé Korkusuz / Rampage
+        - Ultime combat (1988) David A. Prior
+        - Invasion U.S.A. (1985) Joseph Zito
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+   <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1214602288</guid>
+      <title>La Blacksploitation</title>
+      <pubDate>Sat, 12 Feb 2022 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04e03_-_Blacksploitation_v3.mp3" length="63546251"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04e03_-_Blacksploitation_v3.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e03_-_Blacksploitation.jpg"/>
+      <itunes:duration>1:06:55</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Blacula (1972) William Crain
+          En 1780, Manuwalde, un prince africain, rend visite au comte Dracula, un vampire assoiffé de sang. Manuwalde, mordu par le comte, devient à son tour une créature de la nuit. Ses contemporains parviennent à le capturer et l'enferment dans un cercueil. En 1972, aux Etats-Unis, des décorateurs d'intérieur achètent le cercueil et le ramènent à Los Angeles. Le vampire ne tarde pas à refaire surface et part à la recherche de son épouse disparue...
+        - Coffy, la Panthère noire de Harlem (1973) Jack Hill
+          Coffy est infirmière le jour et justicière la nuit. Lorsqu'elle découvre qu'un dealer a entraîné sa jeune soeur dans l'univers impitoyable de la drogue, elle met non seulement fin à la misérable existence du criminel mais prend également la ferme résolution de suivre sa trace afin de remonter la filière. La soif de vengeance de Coffy n'aura alors plus de cesse, mais elle va se rendre compte que les apparences sont parfois trompeuses…
+        - Shaft - Les Nuits rouges de Harlem (1971) Gordon Parks
+          L’histoire proposée par « Shaft » nous invite à suivre John Shaft (Richard Roundtree), un détective privé new-yorkais. Ce dernier est contacté par Bumpy Jonas (Moses Gunn), un leader de la pègre de la grosse pomme. Il souhaite engager le détective pour qu’il retrouve sa fille qui vient d’être kidnappée. Rapidement, John Shaft prend conscience que c’est la mafia italienne qui se cache derrière ce kidnapping, voulant faire pression sur Bumby afin de prendre le contrôle de Harlem. Shaft va devoir composer avec une ancienne connaissance, mais également avec le Lieutenant Vic Androzzi (Charles Cioffi) de la police criminelle…
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Blacula (1972) William Crain
+          En 1780, Manuwalde, un prince africain, rend visite au comte Dracula, un vampire assoiffé de sang. Manuwalde, mordu par le comte, devient à son tour une créature de la nuit. Ses contemporains parviennent à le capturer et l'enferment dans un cercueil. En 1972, aux Etats-Unis, des décorateurs d'intérieur achètent le cercueil et le ramènent à Los Angeles. Le vampire ne tarde pas à refaire surface et part à la recherche de son épouse disparue...
+        - Coffy, la Panthère noire de Harlem (1973) Jack Hill
+          Coffy est infirmière le jour et justicière la nuit. Lorsqu'elle découvre qu'un dealer a entraîné sa jeune soeur dans l'univers impitoyable de la drogue, elle met non seulement fin à la misérable existence du criminel mais prend également la ferme résolution de suivre sa trace afin de remonter la filière. La soif de vengeance de Coffy n'aura alors plus de cesse, mais elle va se rendre compte que les apparences sont parfois trompeuses…
+        - Shaft - Les Nuits rouges de Harlem (1971) Gordon Parks
+          L’histoire proposée par « Shaft » nous invite à suivre John Shaft (Richard Roundtree), un détective privé new-yorkais. Ce dernier est contacté par Bumpy Jonas (Moses Gunn), un leader de la pègre de la grosse pomme. Il souhaite engager le détective pour qu’il retrouve sa fille qui vient d’être kidnappée. Rapidement, John Shaft prend conscience que c’est la mafia italienne qui se cache derrière ce kidnapping, voulant faire pression sur Bumby afin de prendre le contrôle de Harlem. Shaft va devoir composer avec une ancienne connaissance, mais également avec le Lieutenant Vic Androzzi (Charles Cioffi) de la police criminelle…
+
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+   <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1160271838</guid>
+      <title>La Ninjasploitation</title>
+      <pubDate>Mon, 15 Nov 2021 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04e02_-_Ninja_v1.mp3" length="78915404"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04e02_-_Ninja_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e02_-_Ninjas.jpg"/>
+      <itunes:duration>1:21:51</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Ultime Violence (1983) Film de Sam Firstenberg
+          Après que leur famille ait été tuée au Japon par des Ninjas, Cho et son fils Kane, décident de partir aux Etats-Unis pour recommencer un nouvelle vie. Alors qu'il a ouvert une boutique de figurines, il découvre qu'il importe à son insu de l'héroïne, dissimulée à l'intérieur. Après avoir découvert la trahison de l'ami qui l'a impliqué malgré lui, il va devoir se préparer pour l'ultime bataille qui en découle...
+        - Duel to the Death (1983) Réalisateur : Ching Siu-tung
+          Tous les 10 ans, un représentant de l'école Shaolin affronte celui d'une école japonaise pour déterminer quelle est la meilleure des deux écoles.
+        - Black Ninja (1986) Film de Godefrey Ho
+          Deux policiers intègres mènent une lutte sans merci contre un dangereux trafiquant de drogue et ses hommes de main.
+
+        Les chroniqueurs de cet épisode : Adrien, Joss et moi même avec en invité spécial Crabman.
+        La chaîne ASMR de Crabman : <a href="https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA">https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA</a>
+
+        Merci également à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Ultime Violence (1983) Film de Sam Firstenberg
+          Après que leur famille ait été tuée au Japon par des Ninjas, Cho et son fils Kane, décident de partir aux Etats-Unis pour recommencer un nouvelle vie. Alors qu'il a ouvert une boutique de figurines, il découvre qu'il importe à son insu de l'héroïne, dissimulée à l'intérieur. Après avoir découvert la trahison de l'ami qui l'a impliqué malgré lui, il va devoir se préparer pour l'ultime bataille qui en découle...
+        - Duel to the Death (1983) Réalisateur : Ching Siu-tung
+          Tous les 10 ans, un représentant de l'école Shaolin affronte celui d'une école japonaise pour déterminer quelle est la meilleure des deux écoles.
+        - Black Ninja (1986) Film de Godefrey Ho
+          Deux policiers intègres mènent une lutte sans merci contre un dangereux trafiquant de drogue et ses hommes de main.
+
+        Les chroniqueurs de cet épisode : Adrien, Joss et moi même avec en invité spécial Crabman.
+        La chaîne ASMR de Crabman : <a href="https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA">https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA</a>
+
+        Merci également à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+   <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1144252651</guid>
+      <title>La Nonnesploitation</title>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://lepodcastsansvisage.fr/episodes/s04e01_-_Nonnes_v1.mp3" length="66356237"/>
+      <link>https://lepodcastsansvisage.fr/episodes/s04e01_-_Nonnes_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e01_-_Nonnes.jpg"/>
+      <itunes:duration>1:10:10</itunes:duration>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:summary>
+        Un podcast audio sur le cinéma, cette saison 04 est axée sur les films d'exploitation.
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Les diables, de Ken Russell (1971)
+          1634, l'abbé Urbain Grandier exerce une très grande influence sur les habitants de Loudun, ville épargnée par les guerres de religions.
+        - Le Couvent de la bête sacrée (1974) de Norifumi Suzuki
+          La jeune et belle Mayumi décide de rentrer dans les ordres et intègre un couvent catholique. Dans un climat de répression et de suspicion, Mayumi mène l'enquête.
+        - Satánico pandemonium (1975) de Gilberto Martinez Solares
+          Une nonne prise de visions de fantasmes interdits, va rejoindre satan.
+
+        Les chroniqueurs de cet épisode : Adrien, Joss, Aude et moi même.
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </itunes:summary>
+      <description>
+        Un podcast audio sur le cinéma, cette saison 04 est axée sur les films d'exploitation.
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Les diables, de Ken Russell (1971)
+          1634, l'abbé Urbain Grandier exerce une très grande influence sur les habitants de Loudun, ville épargnée par les guerres de religions.
+        - Le Couvent de la bête sacrée (1974) de Norifumi Suzuki
+          La jeune et belle Mayumi décide de rentrer dans les ordres et intègre un couvent catholique. Dans un climat de répression et de suspicion, Mayumi mène l'enquête.
+        - Satánico pandemonium (1975) de Gilberto Martinez Solares
+          Une nonne prise de visions de fantasmes interdits, va rejoindre satan.
+
+        Les chroniqueurs de cet épisode : Adrien, Joss, Aude et moi même.
+        Merci à Matthieu du Coin du bis pour sa chronique ! (<a href="https://tinyurl.com/mtx9jxju">https://tinyurl.com/mtx9jxju</a>)
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+  </channel>
+</rss>
