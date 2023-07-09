@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Sat, 8 Jul 2023 15:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 8 Jul 2023 15:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 9 Jul 2023 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 9 Jul 2023 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -59,6 +59,43 @@
 <!--     </item> -->
 
     <!-- Saison 5 -->
+
+   <item>
+      <guid isPermaLink="false">647fd54398d54609b26cff6ac8e41136</guid>
+      <title>Stanley Kubrick</title>
+      <pubDate>Sun, 9 Jul 2023 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e05_-_kubrick_v2.mp3" length="113651648"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e05_-_kubrick_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e05_-_Kubrick.jpg"/>
+      <itunes:duration>1:54:43</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:summary>
+        Ce mois ci nous parlons du GOAT, Stanley Kubrick.
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Lolita
+        - Barry lyndon
+        - Full Metal Jacket
+        - Eyes Wide Shut
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
+      </itunes:summary>
+      <description>
+        Ce mois ci nous parlons du GOAT, Stanley Kubrick.
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Lolita
+        - Barry lyndon
+        - Full Metal Jacket
+        - Eyes Wide Shut
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">1035f219259b48c4ad60bda8d847b291</guid>
