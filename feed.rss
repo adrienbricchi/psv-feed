@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Sat, 8 Jul 2023 15:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 8 Jul 2023 15:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 9 Jul 2023 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 9 Jul 2023 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -60,6 +60,43 @@
 
     <!-- Saison 5 -->
 
+   <item>
+      <guid isPermaLink="false">647fd54398d54609b26cff6ac8e41136</guid>
+      <title>Stanley Kubrick</title>
+      <pubDate>Sun, 9 Jul 2023 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e05_-_kubrick_v2.mp3" length="113651648"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e05_-_kubrick_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e05_-_Kubrick.jpg"/>
+      <itunes:duration>1:54:43</itunes:duration>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:summary>
+        Ce mois ci nous parlons du GOAT, Stanley Kubrick.
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Lolita
+        - Barry lyndon
+        - Full Metal Jacket
+        - Eyes Wide Shut
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
+      </itunes:summary>
+      <description>
+        Ce mois ci nous parlons du GOAT, Stanley Kubrick.
+        On parle, entre autres, et sans trop spoiler, des films :
+
+        - Lolita
+        - Barry lyndon
+        - Full Metal Jacket
+        - Eyes Wide Shut
+
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
     <item>
       <guid isPermaLink="false">1035f219259b48c4ad60bda8d847b291</guid>
       <title>Bertrand Blier</title>
@@ -72,7 +109,6 @@
       <itunes:episode>4</itunes:episode>
       <itunes:summary>
         Ce mois ci nous parlons du plus grand punch-liner français, Bertrand Blier.
-
         On parle, entre autres, et sans trop spoiler, des films :
 
         - Les Valseuses (1974)
@@ -80,11 +116,10 @@
         - Buffet froid (1979)
         - Tenue de soirée (1986)
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <description>
         Ce mois ci nous parlons du plus grand punch-liner français, Bertrand Blier.
-
         On parle, entre autres, et sans trop spoiler, des films :
 
         - Les Valseuses (1974)
@@ -92,7 +127,7 @@
         - Buffet froid (1979)
         - Tenue de soirée (1986)
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>yes</itunes:explicit>
@@ -111,25 +146,23 @@
       <itunes:episode>3</itunes:episode>
       <itunes:summary>
         Ce mois ci nous parlons du grand maître de New York et de la mafia, Martin Scorsese.
-
         On parle, entre autres, et sans trop spoiler, des films :
 
         - After Hours (1985)
         - Raging Bull (1980)
         - Le loup de wall street (2013)
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <description>
         Ce mois ci nous parlons du grand maître de New York et de la mafia, Martin Scorsese.
-
         On parle, entre autres, et sans trop spoiler, des films :
 
         - After Hours (1985)
         - Raging Bull (1980)
         - Le loup de wall street (2013)
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>yes</itunes:explicit>
@@ -148,7 +181,6 @@
       <itunes:episode>2</itunes:episode>
       <itunes:summary>
         Ce mois ci nous parlons d'un des grands maîtres de l'horreur, Big John.
-
         On parle, entre autres, et sans trop spoiler, des films :
 
         - Assault
@@ -156,7 +188,7 @@
         - The thing
         - L'antre de la folie
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
 
         ➜ Autres films évoqués :
         - Christine
@@ -167,7 +199,6 @@
       </itunes:summary>
       <description>
         Ce mois ci nous parlons d'un des grands maîtres de l'horreur, Big John.
-
         On parle, entre autres, et sans trop spoiler, des films :
 
         - Assault
@@ -175,7 +206,7 @@
         - The thing
         - L'antre de la folie
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
 
         ➜ Autres films évoqués :
         - Christine
@@ -210,7 +241,7 @@
         - Jurassic Park
         - The Fabelmans
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <description>
         Cette saison 05 sera axée sur les réalisateurs.
@@ -223,7 +254,7 @@
         - Jurassic Park
         - The Fabelmans
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>yes</itunes:explicit>
@@ -264,7 +295,7 @@
         - Drive
         - Scott Pilgrim vs the World
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <description>
         Ce mois-ci, on parle de nos plaisirs coupables :
@@ -288,7 +319,7 @@
         - Drive
         - Scott Pilgrim vs the World
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>yes</itunes:explicit>
@@ -315,7 +346,7 @@
         - Ilsa, la Louve des SS (1975) de Don Edmonds
         - Inglourious Basterds (2009) de Quentin Tarantino
         
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </itunes:summary>
       <description>
@@ -326,7 +357,7 @@
         - Ilsa, la Louve des SS (1975) de Don Edmonds
         - Inglourious Basterds (2009) de Quentin Tarantino
 
-        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        &gt;&gt; Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </description>
       <itunes:episodeType>full</itunes:episodeType>
@@ -352,7 +383,7 @@
         - Untold Story de Danny Lee et Herman Yau - 1993
         - Run and Kill de Billy Tang - 1993
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! (tinyurl.com/mtx9jxju)
       </itunes:summary>
       <description>
@@ -363,8 +394,8 @@
         - Untold Story de Danny Lee et Herman Yau - 1993
         - Run and Kill de Billy Tang - 1993
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
-        Merci à Matthieu du Coin du bis pour sa chronique !https://tinyurl.com/mtx9jxju
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
+        Merci à Matthieu du Coin du bis pour sa chronique ! (tinyurl.com/mtx9jxju)
       </description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>yes</itunes:explicit>
@@ -388,7 +419,7 @@
         - Le Grand Silence (1968) de Sergio Corbucci
         - Mon nom est Personne (1973)de Tonino Valerii
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique sur Le dernier face à face ! https://tinyurl.com/mtx9jxju
 
         ➜ Autres films évoqués :
@@ -420,7 +451,7 @@
         - Le Grand Silence (1968) de Sergio Corbucci
         - Mon nom est Personne (1973)de Tonino Valerii
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique sur Le dernier face à face ! https://tinyurl.com/mtx9jxju
 
         ➜ Autres films évoqués :
@@ -471,7 +502,7 @@
           Est ce un fantôme, un démon ou le diable lui-même?
           Le shérif Wade Parent est en mission afin d'arrêter une berline noire monstrueuse qui a commencé à terroriser les habitants d'une petite ville du Nouveau-Mexique.
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </itunes:summary>
       <description>
@@ -485,7 +516,7 @@
           Est ce un fantôme, un démon ou le diable lui-même?
           Le shérif Wade Parent est en mission afin d'arrêter une berline noire monstrueuse qui a commencé à terroriser les habitants d'une petite ville du Nouveau-Mexique.
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </description>
       <itunes:episodeType>full</itunes:episodeType>
@@ -510,7 +541,7 @@
         - Ultime combat (1988) David A. Prior
         - Invasion U.S.A. (1985) Joseph Zito
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </itunes:summary>
       <description>
@@ -520,7 +551,7 @@
         - Ultime combat (1988) David A. Prior
         - Invasion U.S.A. (1985) Joseph Zito
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </description>
       <itunes:episodeType>full</itunes:episodeType>
@@ -548,7 +579,7 @@
         - Shaft - Les Nuits rouges de Harlem (1971) Gordon Parks
           L’histoire proposée par « Shaft » nous invite à suivre John Shaft (Richard Roundtree), un détective privé new-yorkais. Ce dernier est contacté par Bumpy Jonas (Moses Gunn), un leader de la pègre de la grosse pomme. Il souhaite engager le détective pour qu’il retrouve sa fille qui vient d’être kidnappée. Rapidement, John Shaft prend conscience que c’est la mafia italienne qui se cache derrière ce kidnapping, voulant faire pression sur Bumby afin de prendre le contrôle de Harlem. Shaft va devoir composer avec une ancienne connaissance, mais également avec le Lieutenant Vic Androzzi (Charles Cioffi) de la police criminelle…
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </itunes:summary>
       <description>
@@ -561,7 +592,7 @@
         - Shaft - Les Nuits rouges de Harlem (1971) Gordon Parks
           L’histoire proposée par « Shaft » nous invite à suivre John Shaft (Richard Roundtree), un détective privé new-yorkais. Ce dernier est contacté par Bumpy Jonas (Moses Gunn), un leader de la pègre de la grosse pomme. Il souhaite engager le détective pour qu’il retrouve sa fille qui vient d’être kidnappée. Rapidement, John Shaft prend conscience que c’est la mafia italienne qui se cache derrière ce kidnapping, voulant faire pression sur Bumby afin de prendre le contrôle de Harlem. Shaft va devoir composer avec une ancienne connaissance, mais également avec le Lieutenant Vic Androzzi (Charles Cioffi) de la police criminelle…
 
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi même
+        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </description>
       <itunes:episodeType>full</itunes:episodeType>
@@ -589,8 +620,8 @@
         - Black Ninja (1986) Film de Godefrey Ho
           Deux policiers intègres mènent une lutte sans merci contre un dangereux trafiquant de drogue et ses hommes de main.
 
-        Les chroniqueurs de cet épisode : Adrien, Joss et moi même avec en invité spécial Crabman.
-        La chaîne ASMR de Crabman : <a href="https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA">https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA</a>
+        Les chroniqueurs de cet épisode : Adrien, Joss et moi-même avec en invité spécial Crabman.
+        La chaîne ASMR de Crabman : https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA
 
         Merci également à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </itunes:summary>
@@ -604,8 +635,8 @@
         - Black Ninja (1986) Film de Godefrey Ho
           Deux policiers intègres mènent une lutte sans merci contre un dangereux trafiquant de drogue et ses hommes de main.
 
-        Les chroniqueurs de cet épisode : Adrien, Joss et moi même avec en invité spécial Crabman.
-        La chaîne ASMR de Crabman : <a href="https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA">https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA</a>
+        Les chroniqueurs de cet épisode : Adrien, Joss et moi-même avec en invité spécial Crabman.
+        La chaîne ASMR de Crabman : https://www.youtube.com/channel/UCUcidFYD60jX1ww5ppnO1TA
 
         Merci également à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </description>
@@ -635,7 +666,7 @@
         - Satánico pandemonium (1975) de Gilberto Martinez Solares
           Une nonne prise de visions de fantasmes interdits, va rejoindre satan.
 
-        Les chroniqueurs de cet épisode : Adrien, Joss, Aude et moi même.
+        Les chroniqueurs de cet épisode : Adrien, Joss, Aude et moi-même.
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </itunes:summary>
       <description>
@@ -649,7 +680,7 @@
         - Satánico pandemonium (1975) de Gilberto Martinez Solares
           Une nonne prise de visions de fantasmes interdits, va rejoindre satan.
 
-        Les chroniqueurs de cet épisode : Adrien, Joss, Aude et moi même.
+        Les chroniqueurs de cet épisode : Adrien, Joss, Aude et moi-même.
         Merci à Matthieu du Coin du bis pour sa chronique ! https://tinyurl.com/mtx9jxju
       </description>
       <itunes:episodeType>full</itunes:episodeType>
