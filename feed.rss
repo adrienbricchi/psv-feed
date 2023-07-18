@@ -1078,5 +1078,450 @@
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
+    <!-- Saison 2 -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/893682655</guid> -->
+<!--       <title>Les Slashers</title> -->
+<!--       <pubDate>Tue, 15 Sep 2020 12:00:00 +0200</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e08_-_Les_slashers.mp3" length="84308474"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e08_-_Les_slashers.mp3</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e08_-_Les_slashers.jpg"/> -->
+<!--       <itunes:duration>01:27:23</itunes:duration> -->
+<!--       <itunes:season>2</itunes:season> -->
+<!--       <itunes:episode>8</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         @@@@@@@@@@ -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         @@@@@@@@@@ -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/842310187</guid> -->
+<!--       <title>Les Comédies horrifiques</title> -->
+<!--       <pubDate>Thu, 18 Jun 2020 12:00:00 +0200</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e07_-_Les_comedies_horrifiques.mp3" length="87259009"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e07_-_Les_comedies_horrifiques.mp3</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e07_-_Les_comedies_horrifiques.jpg"/> -->
+<!--       <itunes:duration>01:30:53</itunes:duration> -->
+<!--       <itunes:season>2</itunes:season> -->
+<!--       <itunes:episode>7</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         @@@@@@@@@@ -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         @@@@@@@@@@ -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/776579872</guid> -->
+<!--       <title>Les Films de monstres géants</title> -->
+<!--       <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e06_-_Les_films_de_monstres_geants.mp3" length="62060668"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e06_-_Les_films_de_monstres_geants.mp3</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/@@@@@@@@@@"/> -->
+<!--       <itunes:duration>01:04:38</itunes:duration> -->
+<!--       <itunes:season>2</itunes:season> -->
+<!--       <itunes:episode>6</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler (enfin un peu là), des films : -->
+
+<!--         - King Kong (1933) de Merian C. Cooper et Ernest B. Schoedsack -->
+<!--         - Godzilla (1954) de Ishiro Honda -->
+<!--         - The Troll Hunter (2010) d'André Ovredal -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Guillaume. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler (enfin un peu là), des films : -->
+
+<!--         - King Kong (1933) de Merian C. Cooper et Ernest B. Schoedsack -->
+<!--         - Godzilla (1954) de Ishiro Honda -->
+<!--         - The Troll Hunter (2010) d'André Ovredal -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Guillaume. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/764838571</guid> -->
+<!--       <title>Les Giallo</title> -->
+<!--       <pubDate>Sat, 22 Feb 2020 12:00:00 +0100</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e05_-_Les_giallo.mp3" length="70694869"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e05_-_Les_giallo.mp3</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e05_-_Les_giallo.jpg"/> -->
+<!--       <itunes:duration>01:13:38</itunes:duration> -->
+<!--       <itunes:season>2</itunes:season> -->
+<!--       <itunes:episode>5</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler(enfin un peu là), des films : -->
+
+<!--         - 6 Femmes pour l'assassin (1964) de Mario Bava -->
+<!--         - Les Frissons de l'angoisse (1975) de Dario Argento -->
+<!--         - La Maison aux fenêtre qui rient (1976) Pupi Avati -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler(enfin un peu là), des films : -->
+
+<!--         - 6 Femmes pour l'assassin (1964) de Mario Bava -->
+<!--         - Les Frissons de l'angoisse (1975) de Dario Argento -->
+<!--         - La Maison aux fenêtre qui rient (1976) Pupi Avati -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/743259541</guid> -->
+<!--       <title>Les Films d'horreur français</title> -->
+<!--       <pubDate>Tue, 14 Jan 2020 12:00:00 +0100</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e04_-_Les_films_d_horreur_francais.mp3" length="73581295"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e04_-_Les_films_d_horreur_francais.mp3</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e04_-_Les_films_d_horreur_francais.jpg"/> -->
+<!--       <itunes:duration>01:16:38</itunes:duration> -->
+<!--       <itunes:season>2</itunes:season> -->
+<!--       <itunes:episode>4</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         @@@@@@@@@@ -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         @@@@@@@@@@ -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/728577109</guid> -->
+<!--       <title>Les Films d'horreur de Noël</title> -->
+<!--       <pubDate>Mon, 16 Dec 2019 12:00:00 +0100</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e03_-_Les_films_d_horreur_de_Noel.mp3" length="64272508"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e03_-_Les_films_d_horreur_de_Noel.mp3</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e03_-_Les_films_d_horreur_de_Noel.jpg"/> -->
+<!--       <itunes:duration>01:06:56</itunes:duration> -->
+<!--       <itunes:season>2</itunes:season> -->
+<!--       <itunes:episode>3</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         @@@@@@@@@@ -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         @@@@@@@@@@ -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/714214198</guid> -->
+<!--       <title>Les Films de sorcellerie</title> -->
+<!--       <pubDate>Sun, 17 Nov 2019 12:00:00 +0100</pubDate> -->
+<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e02_-_Les_films_de_sorcellerie.mp3" length="65857409"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e02_-_Les_films_de_sorcellerie.mp3</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e02_-_Les_films_de_sorcellerie.jpg"/> -->
+<!--       <itunes:duration>01:08:35</itunes:duration> -->
+<!--       <itunes:season>2</itunes:season> -->
+<!--       <itunes:episode>2</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         @@@@@@@@@@ -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         @@@@@@@@@@ -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/698692840</guid> -->
+<!--       <title>Le Torture Porn</title> -->
+<!--       <pubDate>Sat, 19 Oct 2019 12:00:00 +0200</pubDate> -->
+<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e01_-_Le_torture_porn.m4a" length="100151493"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e01_-_Le_torture_porn.m4a</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e01_-_Le_torture_porn.jpg"/> -->
+<!--       <itunes:duration>00:59:52</itunes:duration> -->
+<!--       <itunes:season>2</itunes:season> -->
+<!--       <itunes:episode>1</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - The collector (2009) de Marcus Dunstan -->
+<!--         - Excision (2012) de Richard Bates Jr. -->
+<!--         - Martyrs (2008) de Pascal Laugier -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - The collector (2009) de Marcus Dunstan -->
+<!--         - Excision (2012) de Richard Bates Jr. -->
+<!--         - Martyrs (2008) de Pascal Laugier -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--      --><!-- Saison 1 -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/681282014</guid> -->
+<!--       <title>Les Films d'anticipation</title> -->
+<!--       <pubDate>Fri, 13 Sep 2019 12:00:00 +0200</pubDate> -->
+<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e07_-_Les_films_d_anticipation.m4a" length="75105464"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e07_-_Les_films_d_anticipation.m4a</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s01e07_-_Les_films_d_anticipation.jpg"/> -->
+<!--       <itunes:duration>01:18:45</itunes:duration> -->
+<!--       <itunes:season>1</itunes:season> -->
+<!--       <itunes:episode>7</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - 1984 (1984) de Michael Radford -->
+<!--         - Pleasantville (1998) de Gary Ross -->
+<!--         - Coherence (2014) de James Ward Byrkit -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - 1984 (1984) de Michael Radford -->
+<!--         - Pleasantville (1998) de Gary Ross -->
+<!--         - Coherence (2014) de James Ward Byrkit -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/665180219</guid> -->
+<!--       <title>Les Films d'enfants maltraités</title> -->
+<!--       <pubDate>Tue, 13 Aug 2019 12:00:00 +0200</pubDate> -->
+<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e06_-_Les_films_sur_les_enfants_maltraites.m4a" length="77388830"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e06_-_Les_films_sur_les_enfants_maltraites.m4a</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s01e06_-_Les_films_sur_les_enfants_maltraites.jpg"/> -->
+<!--       <itunes:duration>01:21:10</itunes:duration> -->
+<!--       <itunes:season>1</itunes:season> -->
+<!--       <itunes:episode>6</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Poil de carotte (1932) de Julien Duvivier -->
+<!--         - La Couleur pourpre (The Color Purple, 1985) de Steven Spielberg -->
+<!--         - Le Ruban blanc (Das weiße Band, 2009) de Michael Haneke -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Poil de carotte (1932) de Julien Duvivier -->
+<!--         - La Couleur pourpre (The Color Purple, 1985) de Steven Spielberg -->
+<!--         - Le Ruban blanc (Das weiße Band, 2009) de Michael Haneke -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/652842629</guid> -->
+<!--       <title>Les Films de paranoïa</title> -->
+<!--       <pubDate>Thu, 18 Jul 2019 12:00:00 +0200</pubDate> -->
+<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e05_-_Les_films_sur_la_paranoia.m4a" length="59559416"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e05_-_Les_films_sur_la_paranoia.m4a</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s01e05_-_Les_films_sur_la_paranoia.jpg"/> -->
+<!--       <itunes:duration>01:02:24</itunes:duration> -->
+<!--       <itunes:season>1</itunes:season> -->
+<!--       <itunes:episode>5</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Blow-up (1967) de Michelangelo Antonioni -->
+<!--         - Conversation Secrète (The Conversation, 1974) de Francis Ford Coppola -->
+<!--         - Inherent Vice (2014) de Paul Thomas Anderson -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Blow-up (1967) de Michelangelo Antonioni -->
+<!--         - Conversation Secrète (The Conversation, 1974) de Francis Ford Coppola -->
+<!--         - Inherent Vice (2014) de Paul Thomas Anderson -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/636609132</guid> -->
+<!--       <title>Les Films de troubles identitaires</title> -->
+<!--       <pubDate>Sat, 25 May 2019 12:00:00 +0200</pubDate> -->
+<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e04_-_Les_films_de_trouble_identitaires.m4a" length="43137879"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e04_-_Les_films_de_trouble_identitaires.m4a</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s01e04_-_Les_films_de_trouble_identitaires.jpg"/> -->
+<!--       <itunes:duration>00:56:47</itunes:duration> -->
+<!--       <itunes:season>1</itunes:season> -->
+<!--       <itunes:episode>4</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         @@@@@@@@@@ -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         @@@@@@@@@@ -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/619960266</guid> -->
+<!--       <title>Les Films sur l'infidélité</title> -->
+<!--       <pubDate>Sun, 28 Apr 2019 12:00:00 +0200</pubDate> -->
+<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e03_-_Les_films_sur_l_infidelite.m4a" length="50467111"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e03_-_Les_films_sur_l_infidelite.m4a</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s01e03_-_Les_films_sur_l_infidelite.jpg"/> -->
+<!--       <itunes:duration>01:06:22</itunes:duration> -->
+<!--       <itunes:season>1</itunes:season> -->
+<!--       <itunes:episode>3</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Sept ans de réflexion (The Seven Year Itch, 1955) de Billy Wilder -->
+<!--         - La Femme d'à côté (1981) de François Truffaut -->
+<!--         - Liaison fatale (Fatal Attraction, 1987) d'Adrian Lyne -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Sept ans de réflexion (The Seven Year Itch, 1955) de Billy Wilder -->
+<!--         - La Femme d'à côté (1981) de François Truffaut -->
+<!--         - Liaison fatale (Fatal Attraction, 1987) d'Adrian Lyne -->
+
+<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/605435889</guid> -->
+<!--       <title>Les Films sur l'alcool</title> -->
+<!--       <pubDate>Sun, 24 Mar 2019 12:00:00 +0100</pubDate> -->
+<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e02_-_Les_films_sur_l_alcool.m4a" length="47274625"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e02_-_Les_films_sur_l_alcool.m4a</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s01e02_-_Les_films_sur_l_alcool.jpg"/> -->
+<!--       <itunes:duration>01:02:13</itunes:duration> -->
+<!--       <itunes:season>1</itunes:season> -->
+<!--       <itunes:episode>2</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Le Poison (The Lost Weekend, 1945) de Billy Wilder -->
+<!--         - Tchao Pantin (1983) de Claude Berri -->
+<!--         - La Part des anges (The Angel's Share, 2012) de Ken Loach -->
+
+<!--         MERCI à la team : Aude, David et Adrien. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Le Poison (The Lost Weekend, 1945) de Billy Wilder -->
+<!--         - Tchao Pantin (1983) de Claude Berri -->
+<!--         - La Part des anges (The Angel's Share, 2012) de Ken Loach -->
+
+<!--         MERCI à la team : Aude, David et Adrien. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
+<!--    <item> -->
+<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/600827925</guid> -->
+<!--       <title>Les Films de prison</title> -->
+<!--       <pubDate>Thu, 28 Feb 2019 12:00:00 +0100</pubDate> -->
+<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e01_-_Les_films_de_prison.m4a" length="44363106"/> -->
+<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s01e01_-_Les_films_de_prison.m4a</link> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s01e01_-_Les_films_de_prison.jpg"/> -->
+<!--       <itunes:duration>00:58:15</itunes:duration> -->
+<!--       <itunes:season>1</itunes:season> -->
+<!--       <itunes:episode>1</itunes:episode> -->
+<!--       <itunes:summary> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Le Trou (1960) de Jacques Becker -->
+<!--         - L'Évadé d'Alcatraz (Escape from Alcatraz, 1979) de Don Siegel -->
+<!--         - Les Poings contre les murs (Starred Up, 2014) de David Mackenzie -->
+
+<!--         MERCI à la team : Aude, David et Adrien. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </itunes:summary> -->
+<!--       <description> -->
+<!--         On parle, entre autres, et sans spoiler, des films : -->
+
+<!--         - Le Trou (1960) de Jacques Becker -->
+<!--         - L'Évadé d'Alcatraz (Escape from Alcatraz, 1979) de Don Siegel -->
+<!--         - Les Poings contre les murs (Starred Up, 2014) de David Mackenzie -->
+
+<!--         MERCI à la team : Aude, David et Adrien. -->
+<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
+<!--       </description> -->
+<!--       <itunes:episodeType>full</itunes:episodeType> -->
+<!--       <itunes:explicit>yes</itunes:explicit> -->
+<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
+<!--     </item> -->
+
   </channel>
 </rss>
