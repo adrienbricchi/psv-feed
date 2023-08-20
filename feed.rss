@@ -68,6 +68,29 @@
 <!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
 <!--     </item> -->
 
+    <!-- Saison 6 -->
+
+   <item>
+      <guid isPermaLink="false">320fb6c84dc24cd69c44b18ba40c3317</guid>
+      <title>In the Mood for Love</title>
+      <pubDate>Sun, 20 Aug 2023 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e01_-_In_the_mood_for_love_v2.mp3" length="70735380"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e01_-_In_the_mood_for_love_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e01_-_In_the_mood_for_love.jpg"/>
+      <itunes:duration>1:12:46</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:summary>
+        Aujourd'hui, on parle d'un tableau à 24 images par secondes
+      </itunes:summary>
+      <description>
+        Aujourd'hui, on parle d'un tableau à 24 images par secondes
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
     <!-- Saison 5 -->
 
     <item>
