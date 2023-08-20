@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Fri, 14 Jul 2023 12:00:00 +0200</pubDate>
-    <lastBuildDate>Fri, 14 Jul 2023 12:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2023 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2023 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -67,6 +67,29 @@
 <!--       <itunes:explicit>yes</itunes:explicit> -->
 <!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
 <!--     </item> -->
+
+    <!-- Saison 6 -->
+
+   <item>
+      <guid isPermaLink="false">320fb6c84dc24cd69c44b18ba40c3317</guid>
+      <title>In the Mood for Love</title>
+      <pubDate>Sun, 20 Aug 2023 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e01_-_In_the_mood_for_love_v2.mp3" length="70735380"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e01_-_In_the_mood_for_love_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e01_-_In_the_mood_for_love.jpg"/>
+      <itunes:duration>1:12:46</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:summary>
+        Aujourd'hui, on parle d'un tableau à 24 images par secondes
+      </itunes:summary>
+      <description>
+        Aujourd'hui, on parle d'un tableau à 24 images par secondes
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <!-- Saison 5 -->
 
@@ -1128,7 +1151,7 @@
 <!--       <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate> -->
 <!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e06_-_Les_films_de_monstres_geants.mp3" length="62060668"/> -->
 <!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e06_-_Les_films_de_monstres_geants.mp3</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/@@@@@@@@@@"/> -->
+<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e06_-_Les_films_de_monstres_geants.jpg"/> -->
 <!--       <itunes:duration>01:04:38</itunes:duration> -->
 <!--       <itunes:season>2</itunes:season> -->
 <!--       <itunes:episode>6</itunes:episode> -->
