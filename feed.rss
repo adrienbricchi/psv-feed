@@ -1134,215 +1134,281 @@
 
     <!-- Saison 2 -->
 
-<!--    <item> -->
-<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/893682655</guid> -->
-<!--       <title>Les Slashers</title> -->
-<!--       <pubDate>Tue, 15 Sep 2020 12:00:00 +0200</pubDate> -->
-<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e08_-_Les_slashers.mp3" length="84308474"/> -->
-<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e08_-_Les_slashers.mp3</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e08_-_Les_slashers.jpg"/> -->
-<!--       <itunes:duration>01:27:23</itunes:duration> -->
-<!--       <itunes:season>2</itunes:season> -->
-<!--       <itunes:episode>8</itunes:episode> -->
-<!--       <itunes:summary> -->
-<!--         @@@@@@@@@@ -->
-<!--       </itunes:summary> -->
-<!--       <description> -->
-<!--         @@@@@@@@@@ -->
-<!--       </description> -->
-<!--       <itunes:episodeType>full</itunes:episodeType> -->
-<!--       <itunes:explicit>yes</itunes:explicit> -->
-<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
-<!--     </item> -->
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/893682655</guid>
+      <title>Les Slashers</title>
+      <pubDate>Tue, 15 Sep 2020 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e08_-_Les_slashers.mp3" length="84308474"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e08_-_Les_slashers.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e08_-_Les_slashers.jpg"/>
+      <itunes:duration>01:27:23</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
 
-<!--    <item> -->
-<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/842310187</guid> -->
-<!--       <title>Les Comédies horrifiques</title> -->
-<!--       <pubDate>Thu, 18 Jun 2020 12:00:00 +0200</pubDate> -->
-<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e07_-_Les_comedies_horrifiques.mp3" length="87259009"/> -->
-<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e07_-_Les_comedies_horrifiques.mp3</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e07_-_Les_comedies_horrifiques.jpg"/> -->
-<!--       <itunes:duration>01:30:53</itunes:duration> -->
-<!--       <itunes:season>2</itunes:season> -->
-<!--       <itunes:episode>7</itunes:episode> -->
-<!--       <itunes:summary> -->
-<!--         @@@@@@@@@@ -->
-<!--       </itunes:summary> -->
-<!--       <description> -->
-<!--         @@@@@@@@@@ -->
-<!--       </description> -->
-<!--       <itunes:episodeType>full</itunes:episodeType> -->
-<!--       <itunes:explicit>yes</itunes:explicit> -->
-<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
-<!--     </item> -->
+        - Maniac Cop (1988) de William Lustig
+        - Candyman (1992) de Bernard Rose
+        - Dream Home (2010) de Pang Ho-Cheung
 
-<!--    <item> -->
-<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/776579872</guid> -->
-<!--       <title>Les Films de monstres géants</title> -->
-<!--       <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate> -->
-<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e06_-_Les_films_de_monstres_geants.mp3" length="62060668"/> -->
-<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e06_-_Les_films_de_monstres_geants.mp3</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e06_-_Les_films_de_monstres_geants.jpg"/> -->
-<!--       <itunes:duration>01:04:38</itunes:duration> -->
-<!--       <itunes:season>2</itunes:season> -->
-<!--       <itunes:episode>6</itunes:episode> -->
-<!--       <itunes:summary> -->
-<!--         On parle, entre autres, et sans spoiler (enfin un peu là), des films : -->
+        MERCI à la team : Aude, David, Adrien et moi-même.
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
 
-<!--         - King Kong (1933) de Merian C. Cooper et Ernest B. Schoedsack -->
-<!--         - Godzilla (1954) de Ishiro Honda -->
-<!--         - The Troll Hunter (2010) d'André Ovredal -->
+        - Maniac Cop (1988) de William Lustig
+        - Candyman (1992) de Bernard Rose
+        - Dream Home (2010) de Pang Ho-Cheung
 
-<!--         MERCI à la team : Aude, David, Adrien, et Guillaume. -->
-<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
-<!--       </itunes:summary> -->
-<!--       <description> -->
-<!--         On parle, entre autres, et sans spoiler (enfin un peu là), des films : -->
+        MERCI à la team : Aude, David, Adrien et moi-même.
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
-<!--         - King Kong (1933) de Merian C. Cooper et Ernest B. Schoedsack -->
-<!--         - Godzilla (1954) de Ishiro Honda -->
-<!--         - The Troll Hunter (2010) d'André Ovredal -->
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/842310187</guid>
+      <title>Les Comédies horrifiques</title>
+      <pubDate>Thu, 18 Jun 2020 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e07_-_Les_comedies_horrifiques.mp3" length="87259009"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e07_-_Les_comedies_horrifiques.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e07_-_Les_comedies_horrifiques.jpg"/>
+      <itunes:duration>01:30:53</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
 
-<!--         MERCI à la team : Aude, David, Adrien, et Guillaume. -->
-<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
-<!--       </description> -->
-<!--       <itunes:episodeType>full</itunes:episodeType> -->
-<!--       <itunes:explicit>yes</itunes:explicit> -->
-<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
-<!--     </item> -->
+        - Le Bal des vampires (1967) de Roman Polanski
+        - La Petite Boutique des horreurs (1986) de Frank Oz
+        - Beetlejuice (1988) de Tim Burton
 
-<!--    <item> -->
-<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/764838571</guid> -->
-<!--       <title>Les Giallo</title> -->
-<!--       <pubDate>Sat, 22 Feb 2020 12:00:00 +0100</pubDate> -->
-<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e05_-_Les_giallo.mp3" length="70694869"/> -->
-<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e05_-_Les_giallo.mp3</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e05_-_Les_giallo.jpg"/> -->
-<!--       <itunes:duration>01:13:38</itunes:duration> -->
-<!--       <itunes:season>2</itunes:season> -->
-<!--       <itunes:episode>5</itunes:episode> -->
-<!--       <itunes:summary> -->
-<!--         On parle, entre autres, et sans spoiler(enfin un peu là), des films : -->
+        MERCI à la team : Aude, David, Adrien, Joss, Lolo et moi-même.
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
 
-<!--         - 6 Femmes pour l'assassin (1964) de Mario Bava -->
-<!--         - Les Frissons de l'angoisse (1975) de Dario Argento -->
-<!--         - La Maison aux fenêtre qui rient (1976) Pupi Avati -->
+        - Le Bal des vampires (1967) de Roman Polanski
+        - La Petite Boutique des horreurs (1986) de Frank Oz
+        - Beetlejuice (1988) de Tim Burton
 
-<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
-<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
-<!--       </itunes:summary> -->
-<!--       <description> -->
-<!--         On parle, entre autres, et sans spoiler(enfin un peu là), des films : -->
+        MERCI à la team : Aude, David, Adrien, Joss, Lolo et moi-même.
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
-<!--         - 6 Femmes pour l'assassin (1964) de Mario Bava -->
-<!--         - Les Frissons de l'angoisse (1975) de Dario Argento -->
-<!--         - La Maison aux fenêtre qui rient (1976) Pupi Avati -->
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/776579872</guid>
+      <title>Les Films de monstres géants</title>
+      <pubDate>Sun, 15 Mar 2020 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e06_-_Les_films_de_monstres_geants.mp3" length="62060668"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e06_-_Les_films_de_monstres_geants.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e06_-_Les_films_de_monstres_geants.jpg"/>
+      <itunes:duration>01:04:38</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
 
-<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
-<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
-<!--       </description> -->
-<!--       <itunes:episodeType>full</itunes:episodeType> -->
-<!--       <itunes:explicit>yes</itunes:explicit> -->
-<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
-<!--     </item> -->
+        - King Kong (1933) de Merian C. Cooper et Ernest B. Schoedsack
+        - Godzilla (1954) de Ishiro Honda
+        - The Troll Hunter (2010) d'André Ovredal
 
-<!--    <item> -->
-<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/743259541</guid> -->
-<!--       <title>Les Films d'horreur français</title> -->
-<!--       <pubDate>Tue, 14 Jan 2020 12:00:00 +0100</pubDate> -->
-<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e04_-_Les_films_d_horreur_francais.mp3" length="73581295"/> -->
-<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e04_-_Les_films_d_horreur_francais.mp3</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e04_-_Les_films_d_horreur_francais.jpg"/> -->
-<!--       <itunes:duration>01:16:38</itunes:duration> -->
-<!--       <itunes:season>2</itunes:season> -->
-<!--       <itunes:episode>4</itunes:episode> -->
-<!--       <itunes:summary> -->
-<!--         @@@@@@@@@@ -->
-<!--       </itunes:summary> -->
-<!--       <description> -->
-<!--         @@@@@@@@@@ -->
-<!--       </description> -->
-<!--       <itunes:episodeType>full</itunes:episodeType> -->
-<!--       <itunes:explicit>yes</itunes:explicit> -->
-<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
-<!--     </item> -->
+        MERCI à la team : Aude, David, Adrien, et Guillaume.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
 
-<!--    <item> -->
-<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/728577109</guid> -->
-<!--       <title>Les Films d'horreur de Noël</title> -->
-<!--       <pubDate>Mon, 16 Dec 2019 12:00:00 +0100</pubDate> -->
-<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e03_-_Les_films_d_horreur_de_Noel.mp3" length="64272508"/> -->
-<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e03_-_Les_films_d_horreur_de_Noel.mp3</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e03_-_Les_films_d_horreur_de_Noel.jpg"/> -->
-<!--       <itunes:duration>01:06:56</itunes:duration> -->
-<!--       <itunes:season>2</itunes:season> -->
-<!--       <itunes:episode>3</itunes:episode> -->
-<!--       <itunes:summary> -->
-<!--         @@@@@@@@@@ -->
-<!--       </itunes:summary> -->
-<!--       <description> -->
-<!--         @@@@@@@@@@ -->
-<!--       </description> -->
-<!--       <itunes:episodeType>full</itunes:episodeType> -->
-<!--       <itunes:explicit>yes</itunes:explicit> -->
-<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
-<!--     </item> -->
+        - King Kong (1933) de Merian C. Cooper et Ernest B. Schoedsack
+        - Godzilla (1954) de Ishiro Honda
+        - The Troll Hunter (2010) d'André Ovredal
 
-<!--    <item> -->
-<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/714214198</guid> -->
-<!--       <title>Les Films de sorcellerie</title> -->
-<!--       <pubDate>Sun, 17 Nov 2019 12:00:00 +0100</pubDate> -->
-<!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e02_-_Les_films_de_sorcellerie.mp3" length="65857409"/> -->
-<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e02_-_Les_films_de_sorcellerie.mp3</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e02_-_Les_films_de_sorcellerie.jpg"/> -->
-<!--       <itunes:duration>01:08:35</itunes:duration> -->
-<!--       <itunes:season>2</itunes:season> -->
-<!--       <itunes:episode>2</itunes:episode> -->
-<!--       <itunes:summary> -->
-<!--         @@@@@@@@@@ -->
-<!--       </itunes:summary> -->
-<!--       <description> -->
-<!--         @@@@@@@@@@ -->
-<!--       </description> -->
-<!--       <itunes:episodeType>full</itunes:episodeType> -->
-<!--       <itunes:explicit>yes</itunes:explicit> -->
-<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
-<!--     </item> -->
+        MERCI à la team : Aude, David, Adrien, et Guillaume.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
-<!--    <item> -->
-<!--       <guid isPermaLink="false">tag:soundcloud,2010:tracks/698692840</guid> -->
-<!--       <title>Le Torture Porn</title> -->
-<!--       <pubDate>Sat, 19 Oct 2019 12:00:00 +0200</pubDate> -->
-<!--       <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e01_-_Le_torture_porn.m4a" length="100151493"/> -->
-<!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e01_-_Le_torture_porn.m4a</link> -->
-<!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e01_-_Le_torture_porn.jpg"/> -->
-<!--       <itunes:duration>00:59:52</itunes:duration> -->
-<!--       <itunes:season>2</itunes:season> -->
-<!--       <itunes:episode>1</itunes:episode> -->
-<!--       <itunes:summary> -->
-<!--         On parle, entre autres, et sans spoiler, des films : -->
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/764838571</guid>
+      <title>Les Giallo</title>
+      <pubDate>Sat, 22 Feb 2020 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e05_-_Les_giallo.mp3" length="70694869"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e05_-_Les_giallo.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e05_-_Les_giallo.jpg"/>
+      <itunes:duration>01:13:38</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
 
-<!--         - The collector (2009) de Marcus Dunstan -->
-<!--         - Excision (2012) de Richard Bates Jr. -->
-<!--         - Martyrs (2008) de Pascal Laugier -->
+        - 6 Femmes pour l'assassin (1964) de Mario Bava
+        - Les Frissons de l'angoisse (1975) de Dario Argento
+        - La Maison aux fenêtres qui rient (1976) Pupi Avati
 
-<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
-<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
-<!--       </itunes:summary> -->
-<!--       <description> -->
-<!--         On parle, entre autres, et sans spoiler, des films : -->
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
 
-<!--         - The collector (2009) de Marcus Dunstan -->
-<!--         - Excision (2012) de Richard Bates Jr. -->
-<!--         - Martyrs (2008) de Pascal Laugier -->
+        - 6 Femmes pour l'assassin (1964) de Mario Bava
+        - Les Frissons de l'angoisse (1975) de Dario Argento
+        - La Maison aux fenêtres qui rient (1976) Pupi Avati
 
-<!--         MERCI à la team : Aude, David, Adrien, et Joss. -->
-<!--         MERCI à Alive my studio : https://www.alivemystudio.com -->
-<!--       </description> -->
-<!--       <itunes:episodeType>full</itunes:episodeType> -->
-<!--       <itunes:explicit>yes</itunes:explicit> -->
-<!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
-<!--     </item> -->
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/743259541</guid>
+      <title>Les Films d'horreur français</title>
+      <pubDate>Tue, 14 Jan 2020 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e04_-_Les_films_d_horreur_francais.mp3" length="73581295"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e04_-_Les_films_d_horreur_francais.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e04_-_Les_films_d_horreur_francais.jpg"/>
+      <itunes:duration>01:16:38</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - La main du diable (1943) de Maurice Tourneur
+        - Territoires (2011) d'Olivier Abbou
+        - Livide (2011) de Julien Maury et Alexandre Bustillo
+
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - La main du diable (1943) de Maurice Tourneur
+        - Territoires (2011) d'Olivier Abbou
+        - Livide (2011) de Julien Maury et Alexandre Bustillo
+
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/728577109</guid>
+      <title>Les Films d'horreur de Noël</title>
+      <pubDate>Mon, 16 Dec 2019 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e03_-_Les_films_d_horreur_de_Noel.mp3" length="64272508"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e03_-_Les_films_d_horreur_de_Noel.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e03_-_Les_films_d_horreur_de_Noel.jpg"/>
+      <itunes:duration>01:06:56</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Black Christmas (1974) de Bob Clark
+        - Anna and the apocalypse (2017) de John McPhail
+        - Gremlins (1984) de Joe Dante
+
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Black Christmas (1974) de Bob Clark
+        - Anna and the apocalypse (2017) de John McPhail
+        - Gremlins (1984) de Joe Dante
+
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/714214198</guid>
+      <title>Les Films de sorcellerie</title>
+      <pubDate>Sun, 17 Nov 2019 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e02_-_Les_films_de_sorcellerie.mp3" length="65857409"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e02_-_Les_films_de_sorcellerie.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e02_-_Les_films_de_sorcellerie.jpg"/>
+      <itunes:duration>01:08:35</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Rosemary's Baby (1968) de Roman Polanski
+        - Belladonna of Sadness (1973) de Eiichi Yamamoto
+        - Suspiria (2018) de Luca Guadagnino
+
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - Rosemary's Baby (1968) de Roman Polanski
+        - Belladonna of Sadness (1973) de Eiichi Yamamoto
+        - Suspiria (2018) de Luca Guadagnino
+
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/698692840</guid>
+      <title>Le Torture Porn</title>
+      <pubDate>Sat, 19 Oct 2019 12:00:00 +0200</pubDate>
+      <enclosure type="audio/x-m4a" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e01_-_Le_torture_porn.m4a" length="100151493"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s02e01_-_Le_torture_porn.m4a</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s02e01_-_Le_torture_porn.jpg"/>
+      <itunes:duration>00:59:52</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:summary>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - The collector (2009) de Marcus Dunstan
+        - Excision (2012) de Richard Bates Jr.
+        - Martyrs (2008) de Pascal Laugier
+
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </itunes:summary>
+      <description>
+        On parle, entre autres, et sans spoiler, des films :
+
+        - The collector (2009) de Marcus Dunstan
+        - Excision (2012) de Richard Bates Jr.
+        - Martyrs (2008) de Pascal Laugier
+
+        MERCI à la team : Aude, David, Adrien, et Joss.
+        MERCI à Alive my studio : https://www.alivemystudio.com
+      </description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <!--      --><!-- Saison 1 -->
 
