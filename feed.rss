@@ -68,6 +68,23 @@
     <!-- Saison 6 -->
 
     <item>
+      <guid isPermaLink="false">e6369ee10595431ab7d31455180f2f83</guid>
+      <title>L'Enfant du diable</title>
+      <pubDate>Mon, 02 Oct 2023 12:00:00 +0200 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e04_-_L_enfant_du_diable_v2.mp3" length="49404256"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e04_-_L_enfant_du_diable_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e04_-_L_enfant_du_diable"/>
+      <itunes:duration>00:51:05</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle d'une maison qui fait peur</itunes:summary>
+      <description>Aujourd'hui, on parle d'une maison qui fait peur</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
       <guid isPermaLink="false">f1ff11110aed4c5580e2ecc697e52fdc</guid>
       <title>Qui a peur de Virginia Woolf ?</title>
       <pubDate>Mon, 18 Sep 2023 12:00:00 +0200</pubDate>
