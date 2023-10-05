@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Mon, 02 Oct 2023 12:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 02 Oct 2023 12:00:00 +0200</lastBuildDate>
+    <pubDate>Thu, 05 Oct 2023 12:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2023 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -104,7 +104,7 @@
     <item>
       <guid isPermaLink="false">e6369ee10595431ab7d31455180f2f83</guid>
       <title>L'Enfant du diable</title>
-      <pubDate>Mon, 02 Oct 2023 12:00:00 +0200 12:00:00 +0200</pubDate>
+      <pubDate>Mon, 02 Oct 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e04_-_L_enfant_du_diable_v2.mp3" length="49404256"/>
       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e04_-_L_enfant_du_diable_v2.mp3</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e04_-_L_enfant_du_diable"/>
