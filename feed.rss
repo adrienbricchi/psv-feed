@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Tue, 14 Nov 2023 12:00:00 +0100</pubDate>
-    <lastBuildDate>Tue, 14 Nov 2023 12:00:00 +0100</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2023 13:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2023 13:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -91,7 +91,7 @@
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e07_-_They_shoot_horses_v1.mp3" length="92128340"/>
       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e07_-_They_shoot_horses.jpg</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e07_-_They_shoot_horses.jpg"/>
-      <itunes:duration>01:14:05</itunes:duration>
+      <itunes:duration>01:14:15</itunes:duration>
       <itunes:season>6</itunes:season>
       <itunes:episode>7</itunes:episode>
       <itunes:summary>Aujourd'hui, on parle de la Bachata</itunes:summary>
