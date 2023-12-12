@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Tue, 28 Nov 2023 12:00:00 +0100</pubDate>
-    <lastBuildDate>Tue, 28 Nov 2023 12:00:00 +0100</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2023 12:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -66,6 +66,23 @@
     <!--     </item> -->
 
     <!-- Saison 6 -->
+
+    <item>
+      <guid isPermaLink="false">daff78a5a28441d89b5cc30e08b31bdc</guid>
+      <title>Enter the Void</title>
+      <pubDate>Tue, 12 Dec 2023 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e09_-_Enter_the_void_v2.mp3" length="64490279"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e08_-_Dancer_in_the_dark.jpg</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e09_-_Enter_the_void_v2.mp3"/>
+      <itunes:duration>01:06:27</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle de drogue et de sexe</itunes:summary>
+      <description>Aujourd'hui, on parle de drogue et de sexe</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">621fc2579b3d424895f8507bac5b4948</guid>
