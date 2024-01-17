@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Tue, 09 Jan 2024 13:00:00 +0100</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2024 13:00:00 +0100</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2024 14:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2024 14:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -71,10 +71,10 @@
       <guid isPermaLink="false">f39a37246a5943f7b222615fbc219feb</guid>
       <title>Je suis un homme de spectacle (Napoléon)</title>
       <pubDate>Tue, 09 Jan 2024 12:00:00 +0100</pubDate>
-      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e11_-_Napoleon_v2.mp3" length="62501052"/>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e11_-_Napoleon_v2.mp3" length="62481570"/>
       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e11_-_Napoleon_v2.mp3</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e11_-_Napoleon.jpg"/>
-      <itunes:duration>1:04:52</itunes:duration>
+      <itunes:duration>1:04:51</itunes:duration>
       <itunes:season>6</itunes:season>
       <itunes:episode>11</itunes:episode>
       <itunes:summary>Aujourd'hui, on parle du petit corse</itunes:summary>
