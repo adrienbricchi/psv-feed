@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Tue, 09 Jan 2024 14:00:00 +0100</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2024 14:00:00 +0100</lastBuildDate>
+    <pubDate>Tue, 23 Jan 2024 12:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 23 Jan 2024 12:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -66,6 +66,23 @@
     <!--     </item> -->
 
     <!-- Saison 6 -->
+
+    <item>
+      <guid isPermaLink="false">81a99bacbe5742ddb15039f1d74cbb63</guid>
+      <title>Dire stop avant d'arriver au téton (Hardcore)</title>
+      <pubDate>Tue, 23 Jan 2024 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e12_-_Hardcore_v2.mp3" length="64505506"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e12_-_Hardcore_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e12_-_Hardcore.jpg"/>
+      <itunes:duration>01:05:22</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle du Sexy-Chiche</itunes:summary>
+      <description>Aujourd'hui, on parle du Sexy-Chiche</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">f39a37246a5943f7b222615fbc219feb</guid>
@@ -137,7 +154,7 @@
 
     <item>
       <guid isPermaLink="false">babfbefe6b2c4ecda3feeb31c25a28ad</guid>
-      <title>30000 balles pour 1 mois et demi (On achève bien les chevaux)</title>
+      <title>30 000 balles pour 1 mois et demi (On achève bien les chevaux)</title>
       <pubDate>Tue, 14 Nov 2023 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e07_-_They_shoot_horses_v1.mp3" length="92128340"/>
       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e07_-_They_shoot_horses.jpg</link>
