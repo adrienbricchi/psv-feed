@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Tue, 23 Jan 2024 12:00:00 +0100</pubDate>
-    <lastBuildDate>Tue, 23 Jan 2024 12:00:00 +0100</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 12:00:00 +0100</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 12:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -66,6 +66,23 @@
     <!--     </item> -->
 
     <!-- Saison 6 -->
+
+    <item>
+      <guid isPermaLink="false">e0955c0e78034a08806ffaf54c503c1c</guid>
+      <title>Un nain sans bras qui met des low-kick (La Montagne sacrée)</title>
+      <pubDate>Tue, 06 Feb 2024 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e13_-_Montagne_sacree_v3.mp3" length="67784678"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e13_-_Montagne_sacree_v3.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e13_-_Montagne_sacree.jpg"/>
+      <itunes:duration>01:09:25</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle d'art, d'argent et de caca</itunes:summary>
+      <description>Aujourd'hui, on parle d'art, d'argent et de caca</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">81a99bacbe5742ddb15039f1d74cbb63</guid>
