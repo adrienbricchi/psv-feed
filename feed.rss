@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Thu, 22 Feb 2024 12:00:00 +0100</pubDate>
-    <lastBuildDate>Thu, 22 Feb 2024 12:00:00 +0100</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2024 12:00:00 +0100</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2024 12:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -66,6 +66,23 @@
     <!--     </item> -->
 
     <!-- Saison 6 -->
+
+    <item>
+      <guid isPermaLink="false">639a4e1ecd754b928086bf819ce7e315</guid>
+      <title>C'est pas un peu pédo ? (Pauvres Créatures)</title>
+      <pubDate>Wed, 06 Mar 2024 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e15_-_Poor_things_v3.mp3" length="62959742"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e15_-_Poor_things_v3.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e15_-_poor_things.jpg"/>
+      <itunes:duration>01:06:33</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:summary>Aujourd'hui, on enfonce les portes ouvertes</itunes:summary>
+      <description>Aujourd'hui, on enfonce les portes ouvertes</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">66721c5e97e64061b4a3b2a365307e00</guid>
