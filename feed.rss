@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Wed, 06 Mar 2024 12:00:00 +0100</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2024 12:00:00 +0100</lastBuildDate>
+    <pubDate>Thu, 21 Mar 2024 12:00:00 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Mar 2024 12:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -66,6 +66,23 @@
     <!--     </item> -->
 
     <!-- Saison 6 -->
+
+    <item>
+      <guid isPermaLink="false">0863d9e38f894cc0bfa498ebb60927b4</guid>
+      <title>Ce film est un JPEG (Goodbye Dragon Inn)</title>
+      <pubDate>Thu, 21 Mar 2024 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e16_-_Goodbye_Dragon_Inn_v1.mp3" length="80126107"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e16_-_Goodbye_Dragon_Inn_v1.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e16_-_dragon_inn.jpg"/>
+      <itunes:duration>01:22:00</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle de téléphones portables et de salles de ciné</itunes:summary>
+      <description>Aujourd'hui, on parle de téléphones portables et de salles de ciné</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">639a4e1ecd754b928086bf819ce7e315</guid>
