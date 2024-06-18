@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Fri, 31 May 2024 12:00:00 +0200</pubDate>
-    <lastBuildDate>Fri, 31 May 2024 12:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 18 May 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 18 May 2024 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -68,6 +68,23 @@
     <!-- Saison 6 -->
 
     <item>
+      <guid isPermaLink="false">6c7aafc2ce324bd7b3281278fb785a6e</guid>
+      <title>Une orgie dans une cuve à vin (L'Opération diabolique)</title>
+      <pubDate>Tue, 18 May 2024 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e22_-_Seconds_v2.mp3" length="76200184"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e22_-_Seconds_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e22_-_Seconds.jpg"/>
+      <itunes:duration>01:19:01</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle d'un épisode de la troisième dimension</itunes:summary>
+      <description>Aujourd'hui, on parle d'un épisode de la troisième dimension</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
       <guid isPermaLink="false">cf2dacc23df34556932fa67f3b0f61dc</guid>
       <title>Même dans Dune, il n'y a pas autant de sable (La Femme des sables)</title>
       <pubDate>Fri, 31 May 2024 12:00:00 +0200</pubDate>
@@ -77,8 +94,8 @@
       <itunes:duration>00:52:45</itunes:duration>
       <itunes:season>6</itunes:season>
       <itunes:episode>21</itunes:episode>
-      <itunes:summary>Aujourd'hui on parle d'Hiroshi Teshigahara et de Kōbō Abe</itunes:summary>
-      <description>Aujourd'hui on parle d'Hiroshi Teshigahara et de Kōbō Abe</description>
+      <itunes:summary>Aujourd'hui on parle d'un homme qui tombe dans un trou, deux fois</itunes:summary>
+      <description>Aujourd'hui on parle d'un homme qui tombe dans un trou, deux fois</description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
