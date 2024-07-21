@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Sat, 06 Jul 2024 12:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 06 Jul 2024 12:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 21 Jul 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Jul 2024 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -66,6 +66,23 @@
     <!--     </item> -->
 
     <!-- Saison 6 -->
+
+    <item>
+      <guid isPermaLink="false">b0f90f910d024b688c1cd8683165b464</guid>
+      <title>200 000 deutchmark dans le tank (Premutos)</title>
+      <pubDate>Sun, 21 Jul 2024 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e24_-_Premutos_v3.mp3" length="48954189"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e24_-_Premutos_v3.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e24_-_Premutos.jpg"/>
+      <itunes:duration>00:52:42</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:summary>Aujourd'hui on parle d'un film qui est sur Youtube'</itunes:summary>
+      <description>Aujourd'hui on parle d'un film qui est sur Youtube</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">f03cba7b51d84f9b83536561fecd8fae</guid>
