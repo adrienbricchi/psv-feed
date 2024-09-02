@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Sun, 21 Jul 2024 13:00:00 +0200</pubDate>
-    <lastBuildDate>Sun, 21 Jul 2024 13:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 01 Sep 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 01 Sep 2024 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -68,6 +68,23 @@
     <!-- Saison 6 -->
 
     <item>
+      <guid isPermaLink="false">a848dca303f740f199f87da61df4a2b3</guid>
+      <title>On parle des films qui nous ont marqués (Hors-sérié)</title>
+      <pubDate>Sun, 01 Sep 2024 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06eHS_-_Les_films_qui_nous_ont_change_v2.mp3" length="87489705"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06eHS_-_Les_films_qui_nous_ont_change_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06eHS_-_films_perso.jpg"/>
+      <itunes:duration>01:33:20</itunes:duration>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle de nos gueules, et de Jim Carrey</itunes:summary>
+      <description>Aujourd'hui, on parle de nos gueules, et de Jim Carrey</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
       <guid isPermaLink="false">b0f90f910d024b688c1cd8683165b464</guid>
       <title>200 000 deutschemark dans le tank (Premutos)</title>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0200</pubDate>
@@ -77,7 +94,7 @@
       <itunes:duration>00:52:42</itunes:duration>
       <itunes:season>6</itunes:season>
       <itunes:episode>24</itunes:episode>
-      <itunes:summary>Aujourd'hui on parle d'un film qui est sur Youtube'</itunes:summary>
+      <itunes:summary>Aujourd'hui on parle d'un film qui est sur Youtube</itunes:summary>
       <description>Aujourd'hui on parle d'un film qui est sur Youtube</description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
@@ -413,7 +430,7 @@
       <pubDate>Mon, 02 Oct 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e04_-_L_enfant_du_diable_v5.mp3" length="49440768"/>
       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e04_-_L_enfant_du_diable_v5.mp3</link>
-      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e04_-_L_enfant_du_diable"/>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e04_-_L_enfant_du_diable.jpg"/>
       <itunes:duration>00:51:05</itunes:duration>
       <itunes:season>6</itunes:season>
       <itunes:episode>4</itunes:episode>
