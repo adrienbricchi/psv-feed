@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://tinyurl.com/ycs7qqnh</link>
-    <pubDate>Fri, 27 Sep 2024 15:00:00 +0200</pubDate>
-    <lastBuildDate>Fri, 27 Sep 2024 15:00:00 +0200</lastBuildDate>
+    <pubDate>Fri, 18 Oct 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 18 Oct 2024 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -64,6 +64,25 @@
     <!--       <itunes:explicit>true</itunes:explicit> -->
     <!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
     <!--     </item> -->
+
+    <!-- Saison 7 -->
+
+    <item>
+      <guid isPermaLink="false">3010801bde7649ea9777ea84fcb6e343</guid>
+      <title>Fesse-hugger (Alien Romulus)</title>
+      <pubDate>Fri, 18 Oct 2024 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e02_-_Alien_Romulus_v2.mp3" length="46499700"/>
+      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e02_-_Alien_Romulus_v2.mp3</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e02_-_Alien_romulus.jpg"/>
+      <itunes:duration>00:49:44</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle de l'empire romain</itunes:summary>
+      <description>Aujourd'hui, on parle de l'empire romain</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">94e10a6e502a4f59a67d0fdb43559220</guid>
