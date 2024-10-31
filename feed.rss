@@ -2083,14 +2083,18 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Le Trou (1960) de Jacques Becker
-        - L'Évadé d'Alcatraz (Escape from Alcatraz, 1979) de Don Siegel
-        - Les Poings contre les murs (Starred Up, 2014) de David Mackenzie
-
-        MERCI à la team : Aude, David et Adrien.
-        MERCI à Alive my studio : https://www.alivemystudio.com
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Le Trou (1960) de Jacques Becker</li>
+            <li>L'Évadé d'Alcatraz (Escape from Alcatraz, 1979) de Don Siegel</li>
+            <li>Les Poings contre les murs (Starred Up, 2014) de David Mackenzie</li>
+          </ul>
+          <p>
+            MERCI à la team : Aude, David et Adrien.<br>
+            MERCI à Alive my studio : https://www.alivemystudio.com
+          </p>
+        ]]>
       </description>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
