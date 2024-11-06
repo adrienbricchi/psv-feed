@@ -1334,13 +1334,15 @@
       <itunes:season>3</itunes:season>
       <itunes:episode>8</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Le roman d'Elvis (1979) de John Carpenter
-        - Bird (1988) de Clint Eastwood
-        - I'm not there (2007) de Todd Haynes
-
-        Les chroniqueurs de cet épisode : Adrien, David, Joss, Aude et moi-même.
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Le roman d'Elvis (1979) de John Carpenter</li>
+            <li>Bird (1988) de Clint Eastwood</li>
+            <li>I'm not there (2007) de Todd Haynes</li>
+          </ul>
+          <p>MERCI à la team&nbsp;: Aude, Adrien, David, Joss et moi-même.</p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
@@ -1367,13 +1369,15 @@
       <itunes:season>3</itunes:season>
       <itunes:episode>7</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Larry Flynt (1996) de Milos Forman
-        - Le Vent se lève (2013) de Hayao Miyazaki
-        - Steve Jobs (2015) de Danny Boyle
-
-        Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même.
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Larry Flynt (1996) de Milos Forman</li>
+            <li>Le Vent se lève (2013) de Hayao Miyazaki</li>
+            <li>Steve Jobs (2015) de Danny Boyle</li>
+          </ul>
+          <p>MERCI à la team&nbsp;: Adrien, David, Joss et moi-même.</p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
@@ -1400,13 +1404,15 @@
       <itunes:season>3</itunes:season>
       <itunes:episode>6</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - La Passion de Jeanne d'Arc (1928) de Carl Theodor Dreyer
-        - Spartacus (1960) de Stanley Kubrick
-        - Le Dernier Samouraï (2003) d'Edward Zwick
-
-        MERCI à la team : Adrien, David, Joss et moi-même.
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>La Passion de Jeanne d'Arc (1928) de Carl Theodor Dreyer</li>
+            <li>Spartacus (1960) de Stanley Kubrick</li>
+            <li>Le Dernier Samouraï (2003) d'Edward Zwick</li>
+          </ul>
+          <p>MERCI à la team&nbsp;: Adrien, David, Joss et moi-même.</p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
@@ -1433,20 +1439,22 @@
       <itunes:season>3</itunes:season>
       <itunes:episode>5</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Elmer Gantry le charlatan (1960) de Richard Brooks → mouvement revivaliste américain
-        - Mississippi Burning (1988) de Alan Parker → meurtres de la freedom summer
-        - Jonestown: The Life and Death of Peoples Temple (2006) → Jim Jones et le temple peoples
-
-        MERCI à la team : Aude, Adrien, David, Joss et moi-même.
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Elmer Gantry le charlatan (1960) de Richard Brooks, sur le mouvement revivaliste américain</li>
+            <li>Mississippi Burning (1988) d'Alan Parker, sur les meurtres de la freedom summer</li>
+            <li>Jonestown, The Life and Death of Peoples Temple (2006) de Jim Jones, sur les temples peoples</li>
+          </ul>
+          <p>MERCI à la team&nbsp;: Aude, Adrien, David, Joss et moi-même.</p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
 
-        - Elmer Gantry le charlatan (1960) de Richard Brooks → mouvement revivaliste américain
-        - Mississippi Burning (1988) de Alan Parker → meurtres de la freedom summer
-        - Jonestown: The Life and Death of Peoples Temple (2006) → Jim Jones et le temple peoples
+        - Elmer Gantry le charlatan (1960) de Richard Brooks, sur le mouvement revivaliste américain
+        - Mississippi Burning (1988) d'Alan Parker, sur les meurtres de la freedom summer
+        - Jonestown, The Life and Death of Peoples Temple (2006) de Jim Jones, sur les temples peoples
 
         MERCI à la team : Aude, Adrien, David, Joss et moi-même.
       </itunes:summary>
@@ -1466,14 +1474,18 @@
       <itunes:season>3</itunes:season>
       <itunes:episode>4</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Monsieur Verdoux (1947) de Charlie Chaplin (Le tueur Landru)
-        - La Balade sauvage (1973) de Terrence Malick (Le tueur Charles Starkweather)
-        - Zodiac (2007) de David Fincher (Le tueur du Zodiaque)
-
-        MERCI à la team : Aude, Adrien, Joss et moi-même.
-        MERCI aussi à notre invité JUAN du podcast Pardon Maman (https://pardonmaman.fr)
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Monsieur Verdoux (1947) de Charlie Chaplin (Le tueur Landru)</li>
+            <li>La Balade sauvage (1973) de Terrence Malick (Le tueur Charles Starkweather)</li>
+            <li>Zodiac (2007) de David Fincher (Le tueur du Zodiaque)</li>
+          </ul>
+          <p>
+            MERCI à la team&nbsp;: Aude, Adrien, Joss et moi-même.<br>
+            MERCI aussi à notre invité JUAN du podcast <a href="https://pardonmaman.fr">Pardon Maman</a>
+          </p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
@@ -1501,14 +1513,18 @@
       <itunes:season>3</itunes:season>
       <itunes:episode>3</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Andreï Roublev (1966) d'Andrei Tarkovski
-        - My Left Foot (1989) de Jim Sheridan
-        - Frida (2002) de Julie Taymor
-
-        MERCI à la team : Aude, Adrien, Joss et moi-même.
-        MERCI aussi à notre invitée Douadou https://www.radiocampusmontpellier.fr/emissions/rictus
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Andreï Roublev (1966) d'Andrei Tarkovski</li>
+            <li>My Left Foot (1989) de Jim Sheridan</li>
+            <li>Frida (2002) de Julie Taymor</li>
+          </ul>
+          <p>
+            MERCI à la team&nbsp;: Aude, Adrien, Joss et moi-même.<br>
+            MERCI aussi à notre invitée <a href="https://www.radiocampusmontpellier.fr/emissions/rictus">Douadou</a>
+          </p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
@@ -1518,7 +1534,7 @@
         - Frida (2002) de Julie Taymor
 
         MERCI à la team : Aude, Adrien, Joss et moi-même.
-        MERCI aussi à notre invitée Douadou https://www.radiocampusmontpellier.fr/emissions/rictus
+        MERCI aussi à notre invitée Douadou (https://www.radiocampusmontpellier.fr/emissions/rictus)
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
@@ -1536,13 +1552,15 @@
       <itunes:season>3</itunes:season>
       <itunes:episode>2</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - L'Armée des ombres (1969) de Jean-Pierre Melville
-        - Requiem pour un massacre (1985) de Elem Klimov
-        - Tu ne tueras point (2016) de Mel Gibson
-
-        MERCI à la team : Aude, Adrien, Joss et moi-même.
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>L'Armée des ombres (1969) de Jean-Pierre Melville</li>
+            <li>Requiem pour un massacre (1985) de Elem Klimov</li>
+            <li>Tu ne tueras point (2016) de Mel Gibson</li>
+          </ul>
+          <p>MERCI à la team&nbsp;: Aude, Adrien, Joss et moi-même.</p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
@@ -1569,14 +1587,16 @@
       <itunes:season>3</itunes:season>
       <itunes:episode>1</itunes:episode>
       <description>
-        Cette saison 3 est consacrée aux faits réels !
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Marqué par la haine (1956) de Robert Wise
-        - Les Chariots de feu (1981) d'Hugh Hudson
-        - Rush (2013) de Ron Howard
-
-        MERCI à la team : Adrien, Joss et moi-même.
+        <![CDATA[
+          <p>Cette saison 3 est consacrée aux faits réels !</p>
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Marqué par la haine (1956) de Robert Wise</li>
+            <li>Les Chariots de feu (1981) d'Hugh Hudson</li>
+            <li>Rush (2013) de Ron Howard</li>
+          </ul>
+          <p>MERCI à la team&nbsp;: Adrien, Joss et moi-même.</p>
+        ]]>
       </description>
       <itunes:summary>
         Cette saison 3 est consacrée aux faits réels !
@@ -1606,13 +1626,15 @@
       <itunes:season>2</itunes:season>
       <itunes:episode>8</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Maniac Cop (1988) de William Lustig
-        - Candyman (1992) de Bernard Rose
-        - Dream Home (2010) de Pang Ho-Cheung
-
-        MERCI à la team : Aude, David, Adrien et moi-même.
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Maniac Cop (1988) de William Lustig</li>
+            <li>Candyman (1992) de Bernard Rose</li>
+            <li>Dream Home (2010) de Pang Ho-Cheung</li>
+          </ul>
+          <p>MERCI à la team&nbsp;: Aude, David, Adrien et moi-même.</p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
@@ -1639,13 +1661,15 @@
       <itunes:season>2</itunes:season>
       <itunes:episode>7</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - Le Bal des vampires (1967) de Roman Polanski
-        - La Petite Boutique des horreurs (1986) de Frank Oz
-        - Beetlejuice (1988) de Tim Burton
-
-        MERCI à la team : Aude, David, Adrien, Joss, Lolo et moi-même.
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>Le Bal des vampires (1967) de Roman Polanski</li>
+            <li>La Petite Boutique des horreurs (1986) de Frank Oz</li>
+            <li>Beetlejuice (1988) de Tim Burton</li>
+          </ul>
+          <p>MERCI à la team&nbsp;: Aude, David, Adrien, Lolo et moi-même.</p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
@@ -1672,14 +1696,18 @@
       <itunes:season>2</itunes:season>
       <itunes:episode>6</itunes:episode>
       <description>
-        On parle, entre autres, et sans spoiler, des films :
-
-        - King Kong (1933) de Merian C. Cooper et Ernest B. Schoedsack
-        - Godzilla (1954) de Ishiro Honda
-        - The Troll Hunter (2010) d'André Ovredal
-
-        MERCI à la team : Aude, David, Adrien, et Guillaume.
-        MERCI à Alive my studio : https://www.alivemystudio.com
+        <![CDATA[
+          <p>On parle, entre autres, et sans spoiler, des films&nbsp;:</p>
+          <ul>
+            <li>King Kong (1933) de Merian C. Cooper et Ernest B. Schoedsack</li>
+            <li>Godzilla (1954) de Ishiro Honda</li>
+            <li>The Troll Hunter (2010) d'André Ovredal</li>
+          </ul>
+          <p>
+            MERCI à la team&nbsp;: Aude, David, Adrien, et Guillaume.<br>
+            MERCI à <a href="https://www.alivemystudio.com">Alive my studio</a>
+          </p>
+        ]]>
       </description>
       <itunes:summary>
         On parle, entre autres, et sans spoiler, des films :
