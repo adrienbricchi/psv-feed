@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://lepodcastsansvisage.fr</link>
-    <pubDate>Fri, 18 Oct 2024 12:00:00 +0200</pubDate>
-    <lastBuildDate>Fri, 18 Oct 2024 12:00:00 +0200</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2024 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -51,7 +51,7 @@
     <!--       <title>@@@@@@@@@@</title> -->
     <!--       <pubDate>@@@@@@@@@@ 12:00:00 +@@@@@@@@@@</pubDate> -->
     <!--       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/@@@@@@@@@@" length="@@@@@@@@@@"/> -->
-    <!--       <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/@@@@@@@@@@</link> -->
+    <!--       <link>https://lepodcastsansvisage.fr#@@@@@@@@@@</link> -->
     <!--       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/@@@@@@@@@@"/> -->
     <!--       <itunes:duration>@@@@@@@@@@</itunes:duration> -->
     <!--       <itunes:season>@@@@@@@@@@</itunes:season> -->
@@ -64,6 +64,23 @@
     <!--     </item> -->
 
     <!-- Saison 7 -->
+
+    <item>
+      <guid isPermaLink="false">b3b17d9fac6b4971a3db3f6b3f982679</guid>
+      <title>Joseph Grogneugneu (Motherland)</title>
+      <pubDate>Thu, 06 Nov 2024 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e04_-_Motherland_v3.mp3" length="55396663"/>
+      <link>https://lepodcastsansvisage.fr#b3b17d9fac6b4971a3db3f6b3f982679</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e03_-_Motherland.jpg"/>
+      <itunes:duration>01:03:13</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle d'Alexandre Aja</itunes:summary>
+      <description>Aujourd'hui, on parle d'Alexandre Aja</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">3010801bde7649ea9777ea84fcb6e343</guid>
