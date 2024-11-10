@@ -26,3 +26,6 @@ jobs:
   push_to_registry:
     name: Push Docker image to DockerHub
     runs-on: adrienbricchi/rss-to-html:latest
+    steps:
+      - name: Build the HTML file
+        run: python3 /opt/rss-to-html/rss-to-html.py
