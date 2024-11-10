@@ -26,7 +26,7 @@ jobs:
   convert_to_html:
     name: Convert the RSS feed to HTML
     runs-on: ubuntu-latest
-    container: adrienbricchi/rss-to-html:1.0.5
+    container: adrienbricchi/rss-to-html:1.0.6
     steps:
       - name: Checkout the repository content
         uses: actions/checkout@v2
