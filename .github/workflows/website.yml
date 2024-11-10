@@ -26,7 +26,8 @@ jobs:
   convert_to_html:
     name: Convert the RSS feed to HTML
     runs-on: ubuntu-latest
-    container: adrienbricchi/rss-to-html:latest
+    container: adrienbricchi/rss-to-html:1.0.4
     steps:
+      - run: ls -l
       - name: Build the HTML file
         run: python3 /opt/rss-to-html/rss-to-html.py
