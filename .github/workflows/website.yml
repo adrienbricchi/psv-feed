@@ -1,0 +1,42 @@
+#
+# RSS-to-HTML
+# Copyright (C) 2024
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Affero General Public License as
+# published by the Free Software Foundation, either version 3 of the
+# License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU Affero General Public License for more details.
+#
+# You should have received a copy of the GNU Affero General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+#
+
+name: Build a website from the RSS feed
+
+on:
+  - push
+
+jobs:
+
+  convert_to_html:
+    name: Convert the RSS feed to HTML
+    runs-on: ubuntu-latest
+    container: adrienbricchi/rss-to-html:latest
+    steps:
+
+      - name: Checkout the repository content
+        uses: actions/checkout@v4
+
+      - name: Build the HTML file
+        run: python3 /opt/rss-to-html/rss-to-html.py
+
+      - name: Archive the HTML file
+        uses: actions/upload-artifact@v4
+        with:
+          name: rss-to-html-generated
+          path: index.html
