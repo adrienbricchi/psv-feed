@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://lepodcastsansvisage.fr</link>
-    <pubDate>Thu, 06 Nov 2024 12:00:00 +0200</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2024 12:00:00 +0200</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2024 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -129,7 +129,7 @@
       <title>On parle des films qui ont changé notre vision de la vie (Hors-série)</title>
       <pubDate>Sun, 01 Sep 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06eHS_-_Les_films_qui_nous_ont_change_v2.mp3" length="87489705"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06eHS_-_Les_films_qui_nous_ont_change_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#a848dca303f740f199f87da61df4a2b3</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06eHS_-_films_perso.jpg"/>
       <itunes:duration>01:33:20</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -146,7 +146,7 @@
       <title>200 000 deutschemark dans le tank (Premutos)</title>
       <pubDate>Sun, 21 Jul 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e24_-_Premutos_v3.mp3" length="48954189"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e24_-_Premutos_v3.mp3</link>
+      <link>https://lepodcastsansvisage.fr#b0f90f910d024b688c1cd8683165b464</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e24_-_Premutos.jpg"/>
       <itunes:duration>00:52:42</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -163,7 +163,7 @@
       <title>C'est pas le fromage (Monster / L'Innocence)</title>
       <pubDate>Sat, 06 Jul 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e23_-_Monster_v2.mp3" length="62021804"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e23_-_Monster_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#f03cba7b51d84f9b83536561fecd8fae</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e23_-_Monster.jpg"/>
       <itunes:duration>01:07:57</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -180,7 +180,7 @@
       <title>Une orgie dans une cuve à vin (L'Opération diabolique)</title>
       <pubDate>Tue, 18 Jun 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e22_-_Seconds_v2.mp3" length="76200184"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e22_-_Seconds_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#6c7aafc2ce324bd7b3281278fb785a6e</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e22_-_Seconds.jpg"/>
       <itunes:duration>01:19:01</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -197,7 +197,7 @@
       <title>Même dans Dune, il n'y a pas autant de sable (La Femme des sables)</title>
       <pubDate>Fri, 31 May 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e21_-_La_femme_des_sables_v1.mp3" length="49829373"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e21_-_La_femme_des_sables_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#cf2dacc23df34556932fa67f3b0f61dc</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e21_-_Femme_des_sables.jpg"/>
       <itunes:duration>00:52:45</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -214,7 +214,7 @@
       <title>La La Land sous coke (Babylon)</title>
       <pubDate>Thu, 16 May 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e20_-_Babylon_v2.mp3" length="65449257"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e20_-_Babylon_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#4187e175e2a84ad5898e422308302dbf</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e20_-_Babylon.jpg"/>
       <itunes:duration>01:08:03</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -231,7 +231,7 @@
       <title>Du verre dans la schneck (Cris et Chuchotements)</title>
       <pubDate>Wed, 01 May 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e19_-_Cris_et_chuchotements_v3.mp3" length="70501511"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e19_-_Cris_et_chuchotements_v3.mp3</link>
+      <link>https://lepodcastsansvisage.fr#e23bfe0b30b94c0a8478d32e7d8973ff</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e19_-_Cris_et_chuchotements.jpg"/>
       <itunes:duration>01:13:38</itunes:duration>
       <itunes:season>06</itunes:season>
@@ -248,7 +248,7 @@
       <title>À 16 ans, ils auraient joué à touche-pipi (Past Lives)</title>
       <pubDate>Tue, 16 Apr 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e18_-_Past_lives_v2.mp3" length="68626116"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e18_-_Past_lives_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#5780d41c7c0c4f2bb017b6bdc20fe3e7</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e18_-_Past_lives.jpg"/>
       <itunes:duration>01:11:06</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -265,7 +265,7 @@
       <title>Mouette Thaï (Les Oiseaux)</title>
       <pubDate>Fri, 05 Apr 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e17_-_Oiseaux_v2.mp3" length="57794749"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e17_-_Oiseaux_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#f43ec8d15f904524b5b57c6cf0af0129</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e17_-_Les_oiseaux.jpg"/>
       <itunes:duration>01:02:02</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -282,7 +282,7 @@
       <title>Ce film est un JPEG (Goodbye Dragon Inn)</title>
       <pubDate>Thu, 21 Mar 2024 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e16_-_Goodbye_Dragon_Inn_v1.mp3" length="80126107"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e16_-_Goodbye_Dragon_Inn_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#0863d9e38f894cc0bfa498ebb60927b4</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e16_-_dragon_inn.jpg"/>
       <itunes:duration>01:22:00</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -299,7 +299,7 @@
       <title>C'est pas un peu pédo ? (Pauvres Créatures)</title>
       <pubDate>Wed, 06 Mar 2024 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e15_-_Poor_things_v3.mp3" length="62959742"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e15_-_Poor_things_v3.mp3</link>
+      <link>https://lepodcastsansvisage.fr#639a4e1ecd754b928086bf819ce7e315</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e15_-_poor_things.jpg"/>
       <itunes:duration>01:06:33</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -316,7 +316,7 @@
       <title>Il a vu le trou de la serrure (Blue Velvet)</title>
       <pubDate>Thu, 22 Feb 2024 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e14_-_blue_velvet_v2.mp3" length="71880781"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e14_-_blue_velvet_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#66721c5e97e64061b4a3b2a365307e00</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e14_-_Blue_velvet.jpg"/>
       <itunes:duration>01:13:10</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -333,7 +333,7 @@
       <title>Un nain sans bras qui met des low-kick (La Montagne sacrée)</title>
       <pubDate>Tue, 06 Feb 2024 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e13_-_Montagne_sacree_v3.mp3" length="67784678"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e13_-_Montagne_sacree_v3.mp3</link>
+      <link>https://lepodcastsansvisage.fr#e0955c0e78034a08806ffaf54c503c1c</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e13_-_Montagne_sacree.jpg"/>
       <itunes:duration>01:09:25</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -350,7 +350,7 @@
       <title>Dire stop avant d'arriver au téton (Hardcore)</title>
       <pubDate>Tue, 23 Jan 2024 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e12_-_Hardcore_v2.mp3" length="64505506"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e12_-_Hardcore_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#81a99bacbe5742ddb15039f1d74cbb63</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e12_-_Hardcore.jpg"/>
       <itunes:duration>01:05:22</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -367,7 +367,7 @@
       <title>Je suis un homme de spectacle (Napoléon)</title>
       <pubDate>Tue, 09 Jan 2024 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e11_-_Napoleon_v2.mp3" length="62481570"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e11_-_Napoleon_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#f39a37246a5943f7b222615fbc219feb</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e11_-_Napoleon.jpg"/>
       <itunes:duration>1:04:51</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -384,7 +384,7 @@
       <title>Je ferais un crowdfunding (Entre le ciel et l'enfer)</title>
       <pubDate>Tue, 26 Dec 2023 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e10_-_Entre_le_ciel_et_l_enfer_v2.mp3" length="66352309"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e10_-_Entre_le_ciel_et_l_enfer_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#7fc40117c97d4709b2b1f269851e0626</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e10_-_Entre_le_ciel_et_l_enfer.jpg"/>
       <itunes:duration>1:07:37</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -401,7 +401,7 @@
       <title>Se faire gicler dessus par Gaspar Noé (Enter the Void)</title>
       <pubDate>Tue, 12 Dec 2023 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e09_-_Enter_the_void_v2.mp3" length="64490279"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e09_-_Dancer_in_the_dark.jpg</link>
+      <link>https://lepodcastsansvisage.fr#daff78a5a28441d89b5cc30e08b31bdc</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e09_-_Enter_the_void.jpg"/>
       <itunes:duration>01:06:27</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -418,7 +418,7 @@
       <title>10 mn de vidéos de chats pour vous remettre bien (Dancer in the Dark)</title>
       <pubDate>Tue, 28 Nov 2023 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e08_-_Dancer_in_the_dark_v4.mp3" length="84134364"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e08_-_Dancer_in_the_dark.jpg</link>
+      <link>https://lepodcastsansvisage.fr#621fc2579b3d424895f8507bac5b4948</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e08_-_Dancer_in_the_dark.jpg"/>
       <itunes:duration>01:08:28</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -435,7 +435,7 @@
       <title>30 000 balles pour 1 mois et demi (On achève bien les chevaux)</title>
       <pubDate>Tue, 14 Nov 2023 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e07_-_They_shoot_horses_v1.mp3" length="92128340"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e07_-_They_shoot_horses.jpg</link>
+      <link>https://lepodcastsansvisage.fr#babfbefe6b2c4ecda3feeb31c25a28ad</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e07_-_They_shoot_horses.jpg"/>
       <itunes:duration>01:14:15</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -452,7 +452,7 @@
       <title>106 pintes en deux jours ? (Trauma)</title>
       <pubDate>Tue, 31 Oct 2023 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e06_-_Trauma_v2.mp3" length="61449216"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e06_-_Trauma_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#873ca5e6b9864d858ebad0b5469f2ac5</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e06_-_Trauma.jpg"/>
       <itunes:duration>00:51:10</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -469,7 +469,7 @@
       <title>Brosse à cul (Les Cinq Diables)</title>
       <pubDate>Tue, 17 Oct 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e05_-_Les_Cinq_Diables_v2.mp3" length="59904275"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e05_-_Les_Cinq_Diables_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#1c57de3eee884c4392d35878291c0405</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e05_-_5_diables.jpg"/>
       <itunes:duration>01:01:37</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -486,7 +486,7 @@
       <title>Errer sans but dans l'univers (L'Enfant du diable)</title>
       <pubDate>Mon, 02 Oct 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e04_-_L_enfant_du_diable_v5.mp3" length="49440768"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e04_-_L_enfant_du_diable_v5.mp3</link>
+      <link>https://lepodcastsansvisage.fr#e6369ee10595431ab7d31455180f2f83</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e04_-_L_enfant_du_diable.jpg"/>
       <itunes:duration>00:51:05</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -503,7 +503,7 @@
       <title>Vomir c'est repartir (Qui a peur de Virginia Woolf ?)</title>
       <pubDate>Mon, 18 Sep 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e03_-_Qui_a_peur_de_Virginia_Woolf_v3.mp3" length="60211592"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e03_-_Virginia_Woolf.jpg</link>
+      <link>https://lepodcastsansvisage.fr#f1ff11110aed4c5580e2ecc697e52fdc</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e03_-_Virginia_Woolf.jpg"/>
       <itunes:duration>01:02:12</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -520,7 +520,7 @@
       <title>Même les oiseaux ont des flingues (À toute épreuve)</title>
       <pubDate>Mon, 04 Sep 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e02_-_Hardboiled_v2.mp3" length="61805399"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e02_-_Hardboiled_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#d7ad9c80c8ec4a37a524a69643fae63a</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e02_-_Hardboiled.jpg"/>
       <itunes:duration>1:03:27</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -534,10 +534,10 @@
 
     <item>
       <guid isPermaLink="false">320fb6c84dc24cd69c44b18ba40c3317</guid>
-      <title>Instagram : le film (In the Mood for Love)</title>
+      <title>Instagram&nbsp;: le film (In the Mood for Love)</title>
       <pubDate>Sun, 20 Aug 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e01_-_In_the_mood_for_love_v2.mp3" length="70735380"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s06e01_-_In_the_mood_for_love_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#320fb6c84dc24cd69c44b18ba40c3317</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s06e01_-_In_the_mood_for_love.jpg"/>
       <itunes:duration>1:12:46</itunes:duration>
       <itunes:season>6</itunes:season>
@@ -556,7 +556,7 @@
       <title>Stanley Kubrick</title>
       <pubDate>Sun, 9 Jul 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e05_-_kubrick_v2.mp3" length="113651648"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e05_-_kubrick_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#647fd54398d54609b26cff6ac8e41136</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e05_-_Kubrick.jpg"/>
       <itunes:duration>1:54:43</itunes:duration>
       <itunes:season>5</itunes:season>
@@ -597,7 +597,7 @@
       <title>Bertrand Blier</title>
       <pubDate>Thu, 1 Jun 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e04_-_Blier_v2.mp3" length="123720239"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e04_-_Blier_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#1035f219259b48c4ad60bda8d847b291</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e04_-_Blier_v2.jpg"/>
       <itunes:duration>02:05:40</itunes:duration>
       <itunes:season>5</itunes:season>
@@ -638,7 +638,7 @@
       <title>Martin Scorsese</title>
       <pubDate>Tue, 25 Apr 2023 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e03_-_Scorcese_v1.mp3" length="82641257"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e03_-_Scorcese_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1500083578</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e03_-_Scorcese_v1.jpg"/>
       <itunes:duration>01:48:53</itunes:duration>
       <itunes:season>5</itunes:season>
@@ -677,7 +677,7 @@
       <title>John Carpenter</title>
       <pubDate>Fri, 24 Mar 2023 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e02_-_Carpenter_v1.mp3" length="87087690"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e02_-_Carpenter_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1476461848</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e02_-_Carpenter_v1.jpg"/>
       <itunes:duration>01:54:29</itunes:duration>
       <itunes:season>5</itunes:season>
@@ -733,7 +733,7 @@
       <title>Steven Spielberg</title>
       <pubDate>Fri, 24 Feb 2023 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e01_-_Spielberg_v1.mp3" length="107447102"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s05e01_-_Spielberg_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1454780791</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s05e01_-_Spielberg_v1.jpg"/>
       <itunes:duration>02:16:22</itunes:duration>
       <itunes:season>5</itunes:season>
@@ -778,7 +778,7 @@
       <title>TOP et FLOP de la rédac (de tous les temps)</title>
       <pubDate>Fri, 16 Sep 2022 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04eHS_-_Top_de_la_redac_v2.mp3" length="106237553"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04eHS_-_Top_de_la_redac_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1344923017</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04eHS_-_Top_de_la_redac_v2.jpg"/>
       <itunes:duration>1:49:31</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -843,7 +843,7 @@
       <title>La Nazisploitation</title>
       <pubDate>Tue, 19 Jul 2022 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e08_-_La_Nazisploitation_v2.mp3" length="99728232"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e08_-_La_Nazisploitation_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1308005743</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e08_-_Nazisploitation.jpg"/>
       <itunes:duration>1:42:40</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -886,7 +886,7 @@
       <title>La Catégorie III</title>
       <pubDate>Mon, 20 Jun 2022 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e07_-_Category_III_v1.mp3" length="73742797"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e07_-_Category_III_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1287261460</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e07_-_Category_III_v1.jpg"/>
       <itunes:duration>1:16:42</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -929,7 +929,7 @@
       <title>Les Westerns spaghetti</title>
       <pubDate>Sat, 21 May 2022 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e06_-_Westerns_v2.mp3" length="111290470"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e06_-_Westerns_v2.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1272596968</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e06_-_Westerns_v2.jpg"/>
       <itunes:duration>1:54:04</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -1012,7 +1012,7 @@
       <title>La Carsploitation</title>
       <pubDate>Tue, 19 Apr 2022 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e05_-_Carsploitation_v3.mp3" length="86382888"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e05_-_Carsploitation_v3.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1253029732</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e05_-_Carsploitation.jpg"/>
       <itunes:duration>1:30:58</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -1071,7 +1071,7 @@
       <title>La Rambosploitation</title>
       <pubDate>Mon, 14 Mar 2022 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e04_-_Rambosploitation_v1.mp3" length="79890680"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e04_-_Rambosploitation_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1232002141</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e04_-_Rambosploitation.jpg"/>
       <itunes:duration>1:22:01</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -1110,7 +1110,7 @@
       <title>La Blacksploitation</title>
       <pubDate>Sat, 12 Feb 2022 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e03_-_Blacksploitation_v3.mp3" length="63546251"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e03_-_Blacksploitation_v3.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1214602288</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e03_-_Blacksploitation.jpg"/>
       <itunes:duration>1:06:55</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -1181,7 +1181,7 @@
       <title>La Ninjasploitation</title>
       <pubDate>Mon, 15 Nov 2021 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e02_-_Ninja_v1.mp3" length="78915404"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e02_-_Ninja_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1160271838</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e02_-_Ninjas.jpg"/>
       <itunes:duration>1:21:51</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -1237,7 +1237,7 @@
       <title>La Nonnesploitation</title>
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e01_-_Nonnes_v1.mp3" length="66356237"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s04e01_-_Nonnes_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1144252651</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s04e01_-_Nonnes.jpg"/>
       <itunes:duration>1:10:10</itunes:duration>
       <itunes:season>4</itunes:season>
@@ -1296,7 +1296,7 @@
       <title>Le Porno</title>
       <pubDate>Wed, 22 Sep 2021 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03eHS_-_Le_Porno_v1.mp3" length="88193762"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03eHS_-_Le_Porno_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1128819637</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03eHS_-_Porno.jpg"/>
       <itunes:duration>1:31:55</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1383,7 +1383,7 @@
       <title>Les Voyages spatiaux</title>
       <pubDate>Wed, 14 Jul 2021 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e09_-_Espace_v1.mp3" length="92798410"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e09_-_Espace_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1087449949</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e09_-_Voyages_spaciaux.jpg"/>
       <itunes:duration>1:37:29</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1422,7 +1422,7 @@
       <title>Les Musiciens</title>
       <pubDate>Tue, 15 Jun 2021 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e08_-_Musiciens_v1.mp3" length="87178388"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e08_-_Musiciens_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1068746809</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e08_-_Musiciens.jpg"/>
       <itunes:duration>1:31:23</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1457,7 +1457,7 @@
       <title>Les Entrepreneurs</title>
       <pubDate>Fri, 14 May 2021 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e07_-_Entrepreneurs_v1.mp3" length="69365161"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e07_-_Entrepreneurs_v1.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1048609378</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e07_-_Entrepreneurs.jpg"/>
       <itunes:duration>1:13:48</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1492,7 +1492,7 @@
       <title>Les Guerriers historiques</title>
       <pubDate>Fri, 16 Apr 2021 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e06_-_Les_guerriers_historiques.mp3" length="69307113"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e06_-_Les_guerriers_historiques.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1030810519</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e06_-_Guerriers_historiques.jpg"/>
       <itunes:duration>1:12:02</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1527,7 +1527,7 @@
       <title>Les Sectes</title>
       <pubDate>Sun, 14 Mar 2021 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e05_-_Les_sectes.mp3" length="79398632"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e05_-_Les_sectes.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/1006850113</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e05_-_Sectes.jpg"/>
       <itunes:duration>1:22:04</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1562,7 +1562,7 @@
       <title>Les Serial-killers</title>
       <pubDate>Mon, 15 Feb 2021 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e04_-_Les_serials_killers.mp3" length="80275149"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e04_-_Les_serials_killers.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/986279407</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e04_-_Serial-Killers.jpg"/>
       <itunes:duration>1:21:43</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1601,7 +1601,7 @@
       <title>Les Artistes peintres</title>
       <pubDate>Thu, 14 Jan 2021 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e03_-_Les_artistes_peintres.mp3" length="84641536"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e03_-_Les_artistes_peintres.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/965318782</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e03_-_Peintres.jpg"/>
       <itunes:duration>1:26:20</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1640,7 +1640,7 @@
       <title>La Seconde Guerre mondiale</title>
       <pubDate>Mon, 14 Dec 2020 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e02_-_La_2de_guerre_mondiale.mp3" length="89710186"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e02_-_La_2de_guerre_mondiale.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/947330833</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e02_-_WW2.jpg"/>
       <itunes:duration>1:33:32</itunes:duration>
       <itunes:season>3</itunes:season>
@@ -1675,7 +1675,7 @@
       <title>Les Sportifs</title>
       <pubDate>Mon, 2 Nov 2020 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e01_-_Les_sportifs.mp3" length="79435216"/>
-      <link>https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s03e01_-_Les_sportifs.mp3</link>
+      <link>https://lepodcastsansvisage.fr#tag:soundcloud,2010:tracks/921966718</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s03e01_-_Sportifs.jpg"/>
       <itunes:duration>1:22:16</itunes:duration>
       <itunes:season>3</itunes:season>
