@@ -43,9 +43,6 @@
     </image>
     <category>TV &amp; Film</category>
     <itunes:category text="TV &amp; Film"/>
-    <itunes:category text="Film History"/>
-    <itunes:category text="Film Interviews"/>
-    <itunes:category text="Film Reviews"/>
 
     <!-- Episodes -->
 
@@ -88,7 +85,7 @@
     <item>
       <guid isPermaLink="false">b3b17d9fac6b4971a3db3f6b3f982679</guid>
       <title>Joseph Grogneugneu (Motherland)</title>
-      <pubDate>Thu, 06 Nov 2024 12:00:00 +0200</pubDate>
+      <pubDate>Wed, 06 Nov 2024 12:00:00 +0200</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e04_-_Motherland_v3.mp3" length="55396663"/>
       <link>https://lepodcastsansvisage.fr#b3b17d9fac6b4971a3db3f6b3f982679</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e03_-_Motherland.jpg"/>
