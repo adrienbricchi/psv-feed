@@ -23,8 +23,8 @@
       Facebook perso : https://www.facebook.com/Drawertv
       Groupe FaceBook pour les cinéphiles : https://www.facebook.com/groups/1621175604672485
 
-      ❤️https://www.tipeee.com/drawertv
-      ❤️https://utip.io/drawertv
+      ❤️ https://www.tipeee.com/drawertv
+      ❤️ https://utip.io/drawertv
     </description>
     <itunes:subtitle>Un Podcast sur le cinéma de genre, on prend un thème bien précis, on sélectionne des films et on en discute sans prise de tête !</itunes:subtitle>
     <itunes:owner>
@@ -43,6 +43,9 @@
     </image>
     <category>TV &amp; Film</category>
     <itunes:category text="TV &amp; Film"/>
+    <itunes:category text="Film History"/>
+    <itunes:category text="Film Interviews"/>
+    <itunes:category text="Film Reviews"/>
 
     <!-- Episodes -->
 
@@ -110,8 +113,12 @@
       <itunes:season>7</itunes:season>
       <itunes:episode>1</itunes:episode>
       <description>
-        Aujourd'hui, on parle de vacances et on fait des belles rencontres.
-        MERCI encore à Mads Tafdrup, co-scénariste, d'avoir répondu à nos questions !
+        <![CDATA[
+          <p>
+            Aujourd'hui, on parle de vacances et on fait des belles rencontres.<br>
+            MERCI encore à Mads Tafdrup, co-scénariste, d'avoir répondu à nos questions !
+          </p>
+        ]]>
       </description>
       <itunes:summary>
         Aujourd'hui, on parle de vacances et on fait des belles rencontres.
@@ -804,7 +811,7 @@
             <li>Donnie Darko (2001) de Richard Kelly</li>
             <li>Shining (1980) de Stanley Kubrick</li>
             <li>Drive (2011) de Nicolas Winding Refn</li>
-            <li>Scott Pilgrim vs the World (2010) de Edgar Wright</li>
+            <li>Scott Pilgrim vs the World (2010) d'Edgar Wright</li>
           </ul>
           <p>Les chroniqueurs de cet épisode&nbsp;: Adrien, David, Joss et moi-même</p>
         ]]>
@@ -829,7 +836,7 @@
         - Donnie Darko (2001) de Richard Kelly
         - Shining (1980) de Stanley Kubrick
         - Drive (2011) de Nicolas Winding Refn
-        - Scott Pilgrim vs the World (2010) de Edgar Wright
+        - Scott Pilgrim vs the World (2010) d'Edgar Wright
 
         Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
