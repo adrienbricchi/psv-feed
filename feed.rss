@@ -5,12 +5,12 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://lepodcastsansvisage.fr</link>
-    <pubDate>Sat, 16 Nov 2024 12:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 16 Nov 2024 12:00:00 +0200</lastBuildDate>
+    <pubDate>Wed, 11 Dec 2024 12:00:00 +0200</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
-    <webMaster>lepodcastsansvisage@gmail.com (Adrien)</webMaster>
+    <webMaster>lepodcastsansvisage@gmail.com</webMaster>
     <description>
       Une bande de potes autour d'une table équipée de micros qui discutent cinéma avec un thème particulier (et parfois avec de l'humour).
 
@@ -64,6 +64,23 @@
     <!--     </item> -->
 
     <!-- Saison 7 -->
+
+    <item>
+      <guid isPermaLink="false">43fd1f630cbb4a85a61030fb4bd446fe</guid>
+      <title>Couper du niveau vulvaire jusqu'à la tête (La Saga Terrifier)</title>
+      <pubDate>Wed, 11 Dec 2024 12:00:00 +0200</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e05_-_Terrifier_v2.mp3" length="@@@@@@@@@@"/>
+      <link>https://lepodcastsansvisage.fr#43fd1f630cbb4a85a61030fb4bd446fe</link>
+      <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/ s07e05_-_Terrifier.jpg"/>
+      <itunes:duration>00:58:43</itunes:duration>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:summary>Aujourd'hui, on parle du clown tueur</itunes:summary>
+      <description>Aujourd'hui, on parle du clown tueur</description>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
       <guid isPermaLink="false">4389523e979c4e808fe4b206bbc8a907</guid>
