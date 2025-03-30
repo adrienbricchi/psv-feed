@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://lepodcastsansvisage.fr</link>
-    <pubDate>Sat, 15 Feb 2025 12:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 15 Feb 2025 12:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 30 Mar 2025 12:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 30 Mar 2025 12:00:00 +0200</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -32,7 +32,7 @@
       <itunes:email>drawertv@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:author>Le Podcast sans visage</itunes:author>
-    <itunes:explicit>yes</itunes:explicit>
+    <itunes:explicit>true</itunes:explicit>
     <itunes:block>no</itunes:block>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://lepodcastsansvisage.fr/media/fanart.jpg"/>
@@ -59,16 +59,33 @@
     <!--       <itunes:summary>@@@@@@@@@@</itunes:summary> -->
     <!--       <description>@@@@@@@@@@</description> -->
     <!--       <itunes:episodeType>full</itunes:episodeType> -->
-    <!--       <itunes:explicit>yes</itunes:explicit> -->
+    <!--       <itunes:explicit>true</itunes:explicit> -->
     <!--       <itunes:author>Le Podcast sans visage</itunes:author> -->
     <!--     </item> -->
 
     <!-- Saison 7 -->
 
     <item>
+        <guid isPermaLink="false">abe6734b24fe499fa465bf3877e76cb6</guid>
+        <title>Doomscroll jusqu'à la mort (Kaïro)</title>
+        <pubDate>Sun, 30 Mar 2025 12:00:00 +0200</pubDate>
+        <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e08_-_Kairo_v2.mp3" length="59499710"/>
+        <link>https://lepodcastsansvisage.fr#abe6734b24fe499fa465bf3877e76cb6</link>
+        <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e08_-_kairo.jpg"/>
+        <itunes:duration>01:02:23</itunes:duration>
+        <itunes:season>7</itunes:season>
+        <itunes:episode>8</itunes:episode>
+        <itunes:summary>Aujourd'hui, on parle comme des boomers</itunes:summary>
+        <description>Aujourd'hui, on parle comme des boomers</description>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+
+    <item>
       <guid isPermaLink="false">491ceaef5d054e39ae0f970c08d2f545</guid>
       <title>Jean-Michel Nazi-Bouddhiste (L'Incinérateur de cadavres)</title>
-      <pubDate>Sat, 15 Feb 2025 12:00:00 +0200</pubDate>
+      <pubDate>Sat, 15 Feb 2025 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e07_-_Cremator_v2.mp3" length="61556102"/>
       <link>https://lepodcastsansvisage.fr#491ceaef5d054e39ae0f970c08d2f545</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e07_-_cremator.jpg"/>
@@ -78,14 +95,14 @@
       <itunes:summary>Aujourd'hui, on parle du Printemps de Prague et de Frank Lebœuf</itunes:summary>
       <description>Aujourd'hui, on parle du Printemps de Prague et de Frank Lebœuf</description>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
     <item>
       <guid isPermaLink="false">bceaf9872fe44ec6a177b05f061b58e3</guid>
       <title>Le traumatisme du saucisson (La saga Smile)</title>
-      <pubDate>Mon, 06 Jan 2025 12:00:00 +0200</pubDate>
+      <pubDate>Mon, 06 Jan 2025 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e06_-_Smile_v2.mp3" length="60277686"/>
       <link>https://lepodcastsansvisage.fr#bceaf9872fe44ec6a177b05f061b58e3</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e06_-_smile.jpg"/>
@@ -95,15 +112,15 @@
       <itunes:summary>Aujourd'hui, on parle d'un esprit facétieux</itunes:summary>
       <description>Aujourd'hui, on parle d'un esprit facétieux</description>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
     <item>
       <guid isPermaLink="false">43fd1f630cbb4a85a61030fb4bd446fe</guid>
       <title>Couper du niveau vulvaire jusqu'à la tête (La Saga Terrifier)</title>
-      <pubDate>Wed, 11 Dec 2024 12:00:00 +0200</pubDate>
-      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e05_-_Terrifier_v2.mp3" length="@@@@@@@@@@"/>
+      <pubDate>Wed, 11 Dec 2024 12:00:00 +0100</pubDate>
+      <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e05_-_Terrifier_v2.mp3" length="55886066"/>
       <link>https://lepodcastsansvisage.fr#43fd1f630cbb4a85a61030fb4bd446fe</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e05_-_Terrifier.jpg"/>
       <itunes:duration>00:58:43</itunes:duration>
@@ -112,14 +129,14 @@
       <itunes:summary>Aujourd'hui, on parle du clown tueur</itunes:summary>
       <description>Aujourd'hui, on parle du clown tueur</description>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
     <item>
       <guid isPermaLink="false">4389523e979c4e808fe4b206bbc8a907</guid>
       <title>Ils le foutent dans un placard à balais (Johnny s'en va-t-en guerre)</title>
-      <pubDate>Sat, 16 Nov 2024 12:00:00 +0200</pubDate>
+      <pubDate>Sat, 16 Nov 2024 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e04_-_Johnny_got_his_gun_v1.mp3" length="56562839"/>
       <link>https://lepodcastsansvisage.fr#4389523e979c4e808fe4b206bbc8a907</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e04_-_Johnny.jpg"/>
@@ -129,14 +146,14 @@
       <itunes:summary>Aujourd'hui, on parle de Dalton Trumbo et de Metallica</itunes:summary>
       <description>Aujourd'hui, on parle de Dalton Trumbo et de Metallica</description>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
     <item>
       <guid isPermaLink="false">b3b17d9fac6b4971a3db3f6b3f982679</guid>
       <title>Joseph Grogneugneu (Motherland)</title>
-      <pubDate>Wed, 06 Nov 2024 12:00:00 +0200</pubDate>
+      <pubDate>Wed, 06 Nov 2024 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e04_-_Motherland_v3.mp3" length="55396663"/>
       <link>https://lepodcastsansvisage.fr#b3b17d9fac6b4971a3db3f6b3f982679</link>
       <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e03_-_Motherland.jpg"/>
@@ -146,7 +163,7 @@
       <itunes:summary>Aujourd'hui, on parle d'Alexandre Aja</itunes:summary>
       <description>Aujourd'hui, on parle d'Alexandre Aja</description>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -163,7 +180,7 @@
       <description>Aujourd'hui, on parle de l'empire romain</description>
       <itunes:summary>Aujourd'hui, on parle de l'empire romain</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -190,7 +207,7 @@
         MERCI encore à Mads Tafdrup, co-scénariste, d'avoir répondu à nos questions !
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -209,7 +226,7 @@
       <description>Aujourd'hui, on parle de nos gueules, et de Jim Carrey</description>
       <itunes:summary>Aujourd'hui, on parle de nos gueules, et de Jim Carrey</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -226,7 +243,7 @@
       <description>Aujourd'hui, on parle d'un film qui est sur Youtube</description>
       <itunes:summary>Aujourd'hui, on parle d'un film qui est sur Youtube</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -243,7 +260,7 @@
       <description>Aujourd'hui, on parle de Kore-eda et du Festival de Cannes</description>
       <itunes:summary>Aujourd'hui, on parle de Kore-eda et du Festival de Cannes</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -260,7 +277,7 @@
       <description>Aujourd'hui, on parle d'un épisode de la troisième dimension</description>
       <itunes:summary>Aujourd'hui, on parle d'un épisode de la troisième dimension</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -277,7 +294,7 @@
       <description>Aujourd'hui, on parle d'un homme qui tombe dans un trou, deux fois</description>
       <itunes:summary>Aujourd'hui, on parle d'un homme qui tombe dans un trou, deux fois</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -294,7 +311,7 @@
       <description>Aujourd'hui, on parle de Damien Chazelle et de Rory Scovel</description>
       <itunes:summary>Aujourd'hui, on parle de Damien Chazelle et de Rory Scovel</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -311,7 +328,7 @@
       <description>Aujourd'hui, on parle d'Ingmar Bergman et de la mort</description>
       <itunes:summary>Aujourd'hui, on parle d'Ingmar Bergman et de la mort</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -328,7 +345,7 @@
       <description>Aujourd'hui, on parle de New York et d'Instagram</description>
       <itunes:summary>Aujourd'hui, on parle de New York et d'Instagram</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -345,7 +362,7 @@
       <description>Aujourd'hui, on parle d'Alfred Hitchcock</description>
       <itunes:summary>Aujourd'hui, on parle d'Alfred Hitchcock</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -362,7 +379,7 @@
       <description>Aujourd'hui, on parle de téléphones portables et de salles de ciné</description>
       <itunes:summary>Aujourd'hui, on parle de téléphones portables et de salles de ciné</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -379,7 +396,7 @@
       <description>Aujourd'hui, on enfonce les portes ouvertes</description>
       <itunes:summary>Aujourd'hui, on enfonce les portes ouvertes</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -396,7 +413,7 @@
       <description>Aujourd'hui, on parle de méditation et de bulletins météo</description>
       <itunes:summary>Aujourd'hui, on parle de méditation et de bulletins météo</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -413,7 +430,7 @@
       <description>Aujourd'hui, on parle d'art, d'argent et de caca</description>
       <itunes:summary>Aujourd'hui, on parle d'art, d'argent et de caca</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -430,7 +447,7 @@
       <description>Aujourd'hui, on parle du Sexy-Chiche</description>
       <itunes:summary>Aujourd'hui, on parle du Sexy-Chiche</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -447,7 +464,7 @@
       <description>Aujourd'hui, on parle du petit corse</description>
       <itunes:summary>Aujourd'hui, on parle du petit corse</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -464,7 +481,7 @@
       <description>Aujourd'hui, on parle de combien ça coûte un gosse</description>
       <itunes:summary>Aujourd'hui, on parle de combien ça coûte un gosse</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -481,7 +498,7 @@
       <description>Aujourd'hui, on parle de drogue et de sexe</description>
       <itunes:summary>Aujourd'hui, on parle de drogue et de sexe</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -498,7 +515,7 @@
       <description>Aujourd'hui, on parle de Björk Guðmundsdóttir</description>
       <itunes:summary>Aujourd'hui, on parle de Björk Guðmundsdóttir</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -515,7 +532,7 @@
       <description>Aujourd'hui, on parle de la Bachata</description>
       <itunes:summary>Aujourd'hui, on parle de la Bachata</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -532,7 +549,7 @@
       <description>Aujourd'hui, on parle d'une maison qui fait peur, encore</description>
       <itunes:summary>Aujourd'hui, on parle d'une maison qui fait peur, encore</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -549,7 +566,7 @@
       <description>Aujourd'hui, on parle d'une petite curieuse</description>
       <itunes:summary>Aujourd'hui, on parle d'une petite curieuse</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -566,7 +583,7 @@
       <description>Aujourd'hui, on parle d'une maison qui fait peur</description>
       <itunes:summary>Aujourd'hui, on parle d'une maison qui fait peur</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -583,7 +600,7 @@
       <description>Aujourd'hui, on parle d'une bonne grosse engueulade</description>
       <itunes:summary>Aujourd'hui, on parle d'une bonne grosse engueulade</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -600,7 +617,7 @@
       <description>Aujourd'hui, on parle de pan-pan-ratatatatatata</description>
       <itunes:summary>Aujourd'hui, on parle de pan-pan-ratatatatatata</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -617,7 +634,7 @@
       <description>Aujourd'hui, on parle d'un tableau à 24 images par secondes</description>
       <itunes:summary>Aujourd'hui, on parle d'un tableau à 24 images par secondes</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -660,7 +677,7 @@
         Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -701,7 +718,7 @@
         Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -740,7 +757,7 @@
         Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -796,7 +813,7 @@
         - Hateful eight (2015)
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -839,7 +856,7 @@
         Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -906,7 +923,7 @@
         Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -949,7 +966,7 @@
         Merci à Matthieu du Coin du bis pour sa chronique ! https://www.youtube.com/channel/UCy6KH5rli5tbKVTXDT248DA
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -992,7 +1009,7 @@
         Merci à Matthieu du Coin du bis pour sa chronique ! https://www.youtube.com/channel/UCy6KH5rli5tbKVTXDT248DA
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1075,7 +1092,7 @@
         - L'homme de la loi
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1134,7 +1151,7 @@
         Merci à Matthieu du Coin du bis pour sa chronique ! https://www.youtube.com/channel/UCy6KH5rli5tbKVTXDT248DA
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1173,7 +1190,7 @@
         Merci à Matthieu du Coin du bis pour sa chronique ! https://www.youtube.com/channel/UCy6KH5rli5tbKVTXDT248DA
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1244,7 +1261,7 @@
         Merci à Matthieu du Coin du bis pour sa chronique ! https://www.youtube.com/channel/UCy6KH5rli5tbKVTXDT248DA
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1300,7 +1317,7 @@
         Merci également à Matthieu du Coin du bis pour sa chronique ! https://www.youtube.com/channel/UCy6KH5rli5tbKVTXDT248DA
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1357,7 +1374,7 @@
         Merci à Matthieu du Coin du bis pour sa chronique ! https://www.youtube.com/channel/UCy6KH5rli5tbKVTXDT248DA
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1443,7 +1460,7 @@
         MERCI à notre invitée Delphine Esperce
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1482,7 +1499,7 @@
         Notre invité spécial est Paka ! https://www.paka-blog.com/pakabio
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1517,7 +1534,7 @@
         Les chroniqueurs de cet épisode : Adrien, David, Joss, Aude et moi-même.
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1552,7 +1569,7 @@
         Les chroniqueurs de cet épisode : Adrien, David, Joss et moi-même.
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1587,7 +1604,7 @@
         MERCI à la team : Adrien, David, Joss et moi-même.
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1622,7 +1639,7 @@
         MERCI à la team : Aude, Adrien, David, Joss et moi-même.
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1661,7 +1678,7 @@
         MERCI aussi à notre invité JUAN du podcast Pardon Maman (https://pardonmaman.fr)
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1700,7 +1717,7 @@
         MERCI aussi à notre invitée Douadou (https://www.radiocampusmontpellier.fr/emissions/rictus)
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1735,7 +1752,7 @@
         MERCI à la team : Aude, Adrien, Joss et moi-même.
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1772,7 +1789,7 @@
         MERCI à la team : Adrien, Joss et moi-même.
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1809,7 +1826,7 @@
         MERCI à la team : Aude, David, Adrien et moi-même.
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1844,7 +1861,7 @@
         MERCI à la team : Aude, David, Adrien, Joss, Lolo et moi-même.
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1883,7 +1900,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1922,7 +1939,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -1961,7 +1978,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2000,7 +2017,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2039,7 +2056,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2078,7 +2095,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2119,7 +2136,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2158,7 +2175,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2197,7 +2214,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2236,7 +2253,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2275,7 +2292,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2314,7 +2331,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
@@ -2353,7 +2370,7 @@
         MERCI à Alive my studio : https://www.alivemystudio.com
       </itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>true</itunes:explicit>
       <itunes:author>Le Podcast sans visage</itunes:author>
     </item>
 
