@@ -66,6 +66,22 @@
     <!-- Saison 7 -->
 
     <item>
+        <guid isPermaLink="false">82329b760c614f9ca8243781fe4f188c</guid>
+        <title>Martin Matin (Martin)</title>
+        <pubDate>Sat, 21 Jun 2025 12:00:00 +0200</pubDate>
+        <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e09_-_Martin_v2.mp3" length="52420051"/>
+        <link>https://lepodcastsansvisage.fr#82329b760c614f9ca8243781fe4f188c</link>
+        <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e09_Martin.jpg"/>
+        <itunes:duration>00:55:47</itunes:duration>
+        <itunes:season>7</itunes:season>
+        <itunes:episode>9</itunes:episode>
+        <itunes:summary>Aujourd'hui, on parle de barathons</itunes:summary>
+        <description>Aujourd'hui, on parle de barathons</description>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
+    <item>
         <guid isPermaLink="false">abe6734b24fe499fa465bf3877e76cb6</guid>
         <title>Doomscroll jusqu'à la mort (Kaïro)</title>
         <pubDate>Sun, 30 Mar 2025 12:00:00 +0200</pubDate>
