@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://lepodcastsansvisage.fr</link>
-    <pubDate>Sat, 21 Jun 2025 12:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 21 Jun 2025 12:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 12 oct 2025 12:00:00 +0100</pubDate>
+    <lastBuildDate>Sun, 12 oct 2025 12:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -64,6 +64,23 @@
     <!--     </item> -->
 
     <!-- Saison 7 -->
+
+    <item>
+        <guid isPermaLink="false">c6df7239cf10401fa6bfa9ad2777a1b3</guid>
+        <title>Même la télé s'est mise en veille (Sleep has her house)</title>
+        <pubDate>Sun, 12 oct 2025 12:00:00 +0100</pubDate>
+        <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e10_-_Sleep_v2.mp3" length="54630465"/>
+        <link>https://lepodcastsansvisage.fr#c6df7239cf10401fa6bfa9ad2777a1b3</link>
+        <itunes:image href="https://lepodcastsansvisage.fr/media/episodes/s07e09_-_Sleep.jpg"/>
+        <itunes:duration>00:56:06</itunes:duration>
+        <itunes:season>7</itunes:season>
+        <itunes:episode>10</itunes:episode>
+        <itunes:summary>Aujourd'hui, on fait une petite pause</itunes:summary>
+        <description>Aujourd'hui, on fait une petite pause</description>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:author>Le Podcast sans visage</itunes:author>
+    </item>
 
     <item>
         <guid isPermaLink="false">82329b760c614f9ca8243781fe4f188c</guid>
