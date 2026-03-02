@@ -5,8 +5,8 @@
     <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:615907305/sounds.rss?before=1500083578" rel="next" type="application/rss+xml"/>
     <title>Le Podcast sans visage</title>
     <link>https://lepodcastsansvisage.fr</link>
-    <pubDate>Mon, 03 mar 2026 12:00:00 +0100</pubDate>
-    <lastBuildDate>Mon, 03 mar 2026 12:00:00 +0100</lastBuildDate>
+    <pubDate>Mon, 03 mar 2026 13:00:00 +0100</pubDate>
+    <lastBuildDate>Mon, 03 mar 2026 13:00:00 +0100</lastBuildDate>
     <ttl>60</ttl>
     <language>fr</language>
     <copyright>All rights reserved</copyright>
@@ -67,7 +67,7 @@
 
     <item>
       <guid isPermaLink="false">77748543a48e4ec78ffbd6ef8f2bc632</guid>
-      <title>Spécial Sitges (2/2)</title>
+      <title>Spécial 59th Sitges Film Festival (2/2)</title>
       <pubDate>Mon, 03 mar 2026 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e12_-_Sitges_2_v2.mp3" length="55794714"/>
       <link>https://lepodcastsansvisage.fr#77748543a48e4ec78ffbd6ef8f2bc632</link>
@@ -84,7 +84,7 @@
 
     <item>
       <guid isPermaLink="false">6e9ef1d035664ae1abe1c0385e9fde9d</guid>
-      <title>Spécial Sitges (1/2)</title>
+      <title>Spécial 59th Sitges Film Festival (1/2)</title>
       <pubDate>Sun, 21 dec 2025 12:00:00 +0100</pubDate>
       <enclosure type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/lepodcastsansvisage.fr/episodes/s07e11_-_Sitges_1_v1.mp3" length="66913180"/>
       <link>https://lepodcastsansvisage.fr#6e9ef1d035664ae1abe1c0385e9fde9d</link>
